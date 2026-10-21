@@ -24,18 +24,27 @@ footer{padding:0 28px 28px;font-size:11px;text-transform:uppercase;color:var(--m
 @media(max-width:760px){.plate{grid-template-columns:repeat(6,1fr);row-gap:56px;column-gap:16px;padding:48px 16px}.card{grid-column:span 6!important;margin:0!important}.card.s{grid-column:span 3!important}header{padding:16px}.index{margin:20px 16px}}
 header{position:sticky;top:0;z-index:5;padding:14px 28px 0;text-align:center;pointer-events:none}
 h1{font-weight:500;font-size:clamp(64px,12.5vw,205px);letter-spacing:-.055em;line-height:.86;padding:0 0 0 .055em;border:0;color:#e0e0e0;text-align:center}
-.credit{position:absolute;top:16px;right:28px;font-size:calc(clamp(56px,11vw,180px)*.126);color:#d4d4d4;font-weight:400;pointer-events:none}
+.credit{position:absolute;top:16px;right:28px;font-size:calc(clamp(56px,11vw,180px)*.126);color:#d9d9d9;font-weight:400;pointer-events:none}
 .tag{font-size:13px}
 .card{opacity:0;transform:translateY(28px);transition:opacity .9s ease,transform .9s cubic-bezier(.2,.7,.2,1)}.card.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.card{opacity:1;transform:none;transition:none}}
 .plate,.index{position:relative;z-index:6}
 .filters{position:absolute;top:16px;left:28px;display:grid;grid-auto-flow:column;justify-items:start;row-gap:2px;column-gap:18px;font-size:calc(clamp(56px,11vw,180px)*.126);pointer-events:auto;text-align:left}
-.filters button{all:unset;cursor:pointer;color:#d4d4d4;transition:color .25s}
+.filters button{all:unset;cursor:pointer;color:#d9d9d9;transition:color .25s}
 .filters button:hover,.filters button.on{color:#000}
 .plate{pointer-events:none}.card{pointer-events:auto}
 .card.gone,.index a.gone{display:none}
 .card.fade{opacity:0!important;transform:translateY(16px) scale(.98)!important}
 .index a{transition:opacity .35s}.index a.fade{opacity:0}
+@media(max-width:700px){
+header{display:flex;flex-direction:column;align-items:center;padding:12px 0 0}
+header h1{order:1;font-size:clamp(56px,17vw,120px)}
+.credit{order:2;position:static;font-size:12px;margin-top:6px;text-align:center}
+.filters{order:3;position:static;display:flex!important;grid-template-rows:none!important;flex-wrap:nowrap;gap:14px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;width:100%;padding:10px 16px 4px;font-size:12px;white-space:nowrap}
+.filters::-webkit-scrollbar{display:none}
+.filters button{flex:0 0 auto}
+.plate{padding-top:28px}
+}
 </style></head><body>
 <header><nav class="filters" id="filters"></nav><div class="credit">( Curated by Yifei )</div><h1>Specimens</h1>
 </header>
