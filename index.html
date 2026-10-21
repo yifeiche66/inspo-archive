@@ -44,7 +44,7 @@ fetch('data/items.json').then(r=>r.json()).then(items=>{
  items.slice().reverse().forEach((it,k)=>{const n=items.length-k,f=String(n).padStart(2,'0'),code=String.fromCharCode(65+Math.floor((n-1)/6))+'.'+(((n-1)%6)+1);
   const [c,s,t]=L[k%L.length];const a=document.createElement('a');a.className='card'+(s<=3?' s':'');a.href=it.url;a.target='_blank';a.rel='noopener';
   a.style.cssText=`grid-column:${c}/span ${s};margin-top:${t}px`;
-  a.innerHTML=`<div class="lab"><span class="tag">${it.type||""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>`;p.appendChild(a);
+  a.innerHTML=`<div class="lab"><span class="tag">${it.type?"("+it.type+")":""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>`;p.appendChild(a);
   const r=document.createElement('a');r.href=it.url;r.target='_blank';r.rel='noopener';r.innerHTML=`<span>Fig.${f}</span><span>${it.title}</span><em>${fmt(it.date)}</em>`;ix.appendChild(r);});
  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
  document.querySelectorAll('.card').forEach(c=>io.observe(c));});
