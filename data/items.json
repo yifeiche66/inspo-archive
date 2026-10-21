@@ -110,5 +110,101 @@
   "url": "https://store.steampowered.com/app/906100/Observation/",
   "img": "img/03-observation-clamp-detachment.jpg",
   "type": "Game UI"
+ },
+ {
+  "title": "Music Bild — music player concept",
+  "creator": "Slava Kornilov",
+  "date": "2026-10-21",
+  "url": "https://x.com/slavakornilov/status/2111937150455316607",
+  "img": "img/slavakornilov-music-bild.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
+  "creator": "Julián Leiss",
+  "date": "2026-10-21",
+  "url": "https://x.com/julianleiss/status/2110868325052149925",
+  "img": "img/julianleiss-ajedrez.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "House for Daydreams — tracing-paper texture poster",
+  "creator": "Nono Archive (@nono_ai_archive)",
+  "date": "2026-10-21",
+  "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
+  "img": "img/nono-tracing-paper-poster.jpg",
+  "type": "Poster"
+ },
+ {
+  "title": "Typography book, revisited with flip interactions",
+  "creator": "Tân Tân Nguyễn",
+  "date": "2026-10-21",
+  "url": "https://x.com/premiumtantan/status/2109024841290654186",
+  "img": "img/premiumtantan-book.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "Portfolio website — 'What's in m' bag'",
+  "creator": "Chi Quach",
+  "date": "2026-10-21",
+  "url": "https://x.com/chiquwch/status/2107275884961124515",
+  "img": "img/chiquwch-website.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "State of Generative Media, Vol. 2 — report site",
+  "creator": "fal",
+  "date": "2026-10-21",
+  "url": "https://x.com/fal/status/2102461868711247876",
+  "img": "img/fal-report.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Kitten stop-motion animation",
+  "creator": "Vanessa Stockard & Jenni Pasanen",
+  "date": "2026-10-21",
+  "url": "https://x.com/cheerforart/status/1798139113453035884",
+  "img": "img/cheerforart-kitten.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Kimi film — archival objects & index tabs",
+  "creator": "Kimi (Moonshot AI)",
+  "date": "2026-10-21",
+  "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
+  "img": "img/kimi.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Memory vessel — soft, nostalgic object",
+  "creator": "Echo Zhou",
+  "date": "2026-10-21",
+  "url": "https://x.com/_echozhou/status/2107559317318803687",
+  "img": "img/echozhou-memory-vessel.jpg",
+  "type": "Illustration"
+ },
+ {
+  "title": "Alan Wake II — case board",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/alan-wake-ii/",
+  "img": "img/iig-alan-wake-ii-case-board.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Control Resonant — ability select",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control-resonant/",
+  "img": "img/iig-control-resonant-ability-select.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Control — correspondence reader",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control/",
+  "img": "img/iig-control-correspondence.jpg",
+  "type": "Game UI"
  }
 ]
