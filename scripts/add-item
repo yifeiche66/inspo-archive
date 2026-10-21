@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# usage: scripts/add-item <image> "<title>" "<creator>" <url> [YYYY-MM-DD]
+set -e; cd "$(dirname "$0")/.."
+src="$1"; t="$2"; c="$3"; u="$4"; d="${5:-$(date +%F)}"
+f="img/$(basename "$src")"; cp "$src" "$f"
+python3 - "$t" "$c" "$d" "$u" "$f" <<'P'
+import json,sys
+t,c,d,u,f=sys.argv[1:]
+p='data/items.json'; a=json.load(open(p))
+if any(x['url']==u and x['title']==t for x in a): sys.exit("already present")
+a.append(dict(title=t,creator=c,date=d,url=u,img=f)); json.dump(a,open(p,'w'),indent=1,ensure_ascii=False)
+print("added #%d"%len(a))
+P
