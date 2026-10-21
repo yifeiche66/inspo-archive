@@ -318,5 +318,21 @@
   "url": "https://teenage.engineering/products/tp-7",
   "img": "img/tp7.webp",
   "type": "Device"
+ },
+ {
+  "title": "Pond — early preview",
+  "creator": "Butterfly (@bflycomputer)",
+  "date": "2026-10-21",
+  "url": "https://x.com/bflycomputer/status/2105695834511982836",
+  "img": "img/bfly-pond.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Play_Music_Theory — drawings that play as music",
+  "creator": "Play_Music_Theory",
+  "date": "2026-10-21",
+  "url": "https://x.com/playmusictheory/status/2099610933731737810",
+  "img": "img/pmt.jpg",
+  "type": "Interface"
  }
 ]
