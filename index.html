@@ -24,14 +24,13 @@ footer{padding:0 28px 28px;font-size:11px;text-transform:uppercase;color:var(--m
 @media(max-width:760px){.plate{grid-template-columns:repeat(6,1fr);row-gap:56px;column-gap:16px;padding:48px 16px}.card{grid-column:span 6!important;margin:0!important}.card.s{grid-column:span 3!important}header{padding:16px}.index{margin:20px 16px}}
 header{position:sticky;top:0;z-index:5;padding:14px 28px 0;text-align:center;pointer-events:none}
 h1{font-weight:500;font-size:clamp(64px,12.5vw,205px);letter-spacing:-.055em;line-height:.86;padding:0 0 0 .055em;border:0;color:#e3e3e3;text-align:center}
-.credit{position:fixed;top:16px;right:28px;z-index:20;font-size:calc(clamp(56px,11vw,180px)*.126);color:#d4d4d4;font-weight:400;pointer-events:none}
+.credit{position:absolute;top:16px;right:28px;font-size:calc(clamp(56px,11vw,180px)*.126);color:#d4d4d4;font-weight:400;pointer-events:none}
 .tag{font-size:13px}
 .card{opacity:0;transform:translateY(28px);transition:opacity .9s ease,transform .9s cubic-bezier(.2,.7,.2,1)}.card.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.card{opacity:1;transform:none;transition:none}}
 .plate,.index{position:relative;z-index:6}
 </style></head><body>
-<div class="credit">( Curated by Yifei )</div>
-<header><h1>Specimens</h1>
+<header><div class="credit">( Curated by Yifei )</div><h1>Specimens</h1>
 </header>
 <main class="plate" id="plate"></main>
 <section class="index" id="index"></section>
