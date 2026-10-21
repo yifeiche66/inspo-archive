@@ -9,7 +9,7 @@ header{padding:22px 28px 0}
 .meta{display:flex;justify-content:space-between;font-size:11px;letter-spacing:.02em;text-transform:uppercase;padding-bottom:10px;border-bottom:1px solid var(--rule)}
 h1{font-weight:500;font-size:clamp(56px,11vw,180px);letter-spacing:-.055em;line-height:.86;padding:18px 0 14px;border-bottom:1px solid var(--rule)}
 .sub{display:flex;justify-content:space-between;font-family:"Instrument Serif",serif;font-size:17px;padding:10px 0;border-bottom:1px solid var(--rule)}
-.plate{position:relative;padding:150px 28px 40px;display:grid;grid-template-columns:repeat(12,1fr);column-gap:28px;row-gap:90px;align-items:start}
+.plate{position:relative;padding:80px 28px 40px;display:grid;grid-template-columns:repeat(12,1fr);column-gap:28px;row-gap:90px;align-items:start}
 .ghost{position:absolute;inset:auto 0 0 0;top:40%;text-align:center;font-family:"Instrument Serif",serif;font-style:italic;font-size:22vw;color:#16161609;pointer-events:none;line-height:1}
 .card{position:relative;display:block}
 .card img{width:100%;display:block;box-shadow:0 1px 2px #0001,0 12px 30px -14px #0003;transition:transform .4s}
@@ -29,7 +29,7 @@ h1{font-weight:500;font-size:clamp(64px,12.5vw,205px);letter-spacing:-.055em;lin
 .card{opacity:0;transform:translateY(28px);transition:opacity .9s ease,transform .9s cubic-bezier(.2,.7,.2,1)}.card.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.card{opacity:1;transform:none;transition:none}}
 .plate,.index{position:relative;z-index:6}
-.filters{position:absolute;top:16px;left:28px;display:flex;flex-direction:column;align-items:flex-start;gap:2px;font-size:calc(clamp(56px,11vw,180px)*.126);pointer-events:auto;text-align:left}
+.filters{position:absolute;top:16px;left:28px;display:grid;grid-auto-flow:column;justify-items:start;row-gap:2px;column-gap:18px;font-size:calc(clamp(56px,11vw,180px)*.126);pointer-events:auto;text-align:left}
 .filters button{all:unset;cursor:pointer;color:#e0e0e0;transition:color .25s}
 .filters button:hover,.filters button.on{color:#000}
 .plate{pointer-events:none}.card{pointer-events:auto}
@@ -58,7 +58,7 @@ fetch('data/items.json').then(r=>r.json()).then(items=>{
  const apply=t=>{[...nav.children].forEach(b=>b.classList.toggle('on',b.dataset.t===t));const els=[...cards,...rows];
   els.forEach(e=>e.classList.add('fade'));setTimeout(()=>{els.forEach(e=>e.classList.toggle('gone',t!=='All'&&e.dataset.t!==t));layout();
   void p.offsetHeight;setTimeout(()=>els.forEach(e=>{if(!e.classList.contains('gone')){e.classList.remove('fade');e.classList.add('in')}}),30)},350)};
- types.forEach(t=>{const b=document.createElement('button');b.textContent='/ '+t;b.dataset.t=t;b.onclick=()=>{apply(t);history.replaceState(null,'',t==='All'?location.pathname:'#'+encodeURIComponent(t))};nav.appendChild(b)});nav.firstChild.classList.add('on');const h=decodeURIComponent(location.hash.slice(1));if(types.includes(h))apply(h);
+ types.forEach(t=>{const b=document.createElement('button');b.textContent='/ '+t;b.dataset.t=t;b.onclick=()=>{apply(t);history.replaceState(null,'',t==='All'?location.pathname:'#'+encodeURIComponent(t))};nav.appendChild(b)});nav.style.gridTemplateRows='repeat('+Math.ceil(types.length/2)+',auto)';nav.firstChild.classList.add('on');const h=decodeURIComponent(location.hash.slice(1));if(types.includes(h))apply(h);
  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
  document.querySelectorAll('.card').forEach(c=>io.observe(c));});
 </script></body></html>
