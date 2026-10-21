@@ -9,7 +9,7 @@ header{padding:22px 28px 0}
 .meta{display:flex;justify-content:space-between;font-size:11px;letter-spacing:.02em;text-transform:uppercase;padding-bottom:10px;border-bottom:1px solid var(--rule)}
 h1{font-weight:500;font-size:clamp(56px,11vw,180px);letter-spacing:-.055em;line-height:.86;padding:18px 0 14px;border-bottom:1px solid var(--rule)}
 .sub{display:flex;justify-content:space-between;font-family:"Instrument Serif",serif;font-size:17px;padding:10px 0;border-bottom:1px solid var(--rule)}
-.plate{position:relative;padding:80px 28px 40px;display:grid;grid-template-columns:repeat(12,1fr);column-gap:28px;row-gap:90px;align-items:start}
+.plate{position:relative;padding:150px 28px 40px;display:grid;grid-template-columns:repeat(12,1fr);column-gap:28px;row-gap:90px;align-items:start}
 .ghost{position:absolute;inset:auto 0 0 0;top:40%;text-align:center;font-family:"Instrument Serif",serif;font-style:italic;font-size:22vw;color:#16161609;pointer-events:none;line-height:1}
 .card{position:relative;display:block}
 .card img{width:100%;display:block;box-shadow:0 1px 2px #0001,0 12px 30px -14px #0003;transition:transform .4s}
@@ -23,14 +23,21 @@ h1{font-weight:500;font-size:clamp(56px,11vw,180px);letter-spacing:-.055em;line-
 footer{padding:0 28px 28px;font-size:11px;text-transform:uppercase;color:var(--mute);display:flex;justify-content:space-between}
 @media(max-width:760px){.plate{grid-template-columns:repeat(6,1fr);row-gap:56px;column-gap:16px;padding:48px 16px}.card{grid-column:span 6!important;margin:0!important}.card.s{grid-column:span 3!important}header{padding:16px}.index{margin:20px 16px}}
 header{position:sticky;top:0;z-index:5;padding:14px 28px 0;text-align:center;pointer-events:none}
-h1{font-weight:500;font-size:clamp(64px,12.5vw,205px);letter-spacing:-.055em;line-height:.86;padding:0 0 0 .055em;border:0;color:#e3e3e3;text-align:center}
-.credit{position:absolute;top:16px;right:28px;font-size:calc(clamp(56px,11vw,180px)*.126);color:#d4d4d4;font-weight:400;pointer-events:none}
+h1{font-weight:500;font-size:clamp(64px,12.5vw,205px);letter-spacing:-.055em;line-height:.86;padding:0 0 0 .055em;border:0;color:#e0e0e0;text-align:center}
+.credit{position:absolute;top:16px;right:28px;font-size:calc(clamp(56px,11vw,180px)*.126);color:#e0e0e0;font-weight:400;pointer-events:none}
 .tag{font-size:13px}
 .card{opacity:0;transform:translateY(28px);transition:opacity .9s ease,transform .9s cubic-bezier(.2,.7,.2,1)}.card.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.card{opacity:1;transform:none;transition:none}}
 .plate,.index{position:relative;z-index:6}
+.filters{position:absolute;top:16px;left:28px;display:flex;flex-direction:column;align-items:flex-start;gap:2px;font-size:calc(clamp(56px,11vw,180px)*.126);pointer-events:auto;text-align:left}
+.filters button{all:unset;cursor:pointer;color:#e0e0e0;transition:color .25s}
+.filters button:hover,.filters button.on{color:#000}
+.plate{pointer-events:none}.card{pointer-events:auto}
+.card.gone,.index a.gone{display:none}
+.card.fade{opacity:0!important;transform:translateY(16px) scale(.98)!important}
+.index a{transition:opacity .35s}.index a.fade{opacity:0}
 </style></head><body>
-<header><div class="credit">( Curated by Yifei )</div><h1>Specimens</h1>
+<header><nav class="filters" id="filters"></nav><div class="credit">( Curated by Yifei )</div><h1>Specimens</h1>
 </header>
 <main class="plate" id="plate"></main>
 <section class="index" id="index"></section>
@@ -41,10 +48,17 @@ fetch('data/items.json').then(r=>r.json()).then(items=>{
  const p=document.getElementById('plate'),ix=document.getElementById('index');
  const fmt=d=>new Date(d+'T12:00').toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});
  items.slice().reverse().forEach((it,k)=>{const n=items.length-k,f=String(n).padStart(2,'0'),code=String.fromCharCode(65+Math.floor((n-1)/6))+'.'+(((n-1)%6)+1);
-  const [c,s,t]=L[k%L.length];const a=document.createElement('a');a.className='card'+(s<=3?' s':'');a.href=it.url;a.target='_blank';a.rel='noopener';
+  const [c,s,t]=L[k%L.length];const a=document.createElement('a');a.className='card'+(s<=3?' s':'');a.dataset.t=it.type||'';a.href=it.url;a.target='_blank';a.rel='noopener';
   a.style.cssText=`grid-column:${c}/span ${s};margin-top:${t}px`;
-  a.innerHTML=`<div class="lab"><span class="tag">${it.type?"("+it.type+")":""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>`;p.appendChild(a);
-  const r=document.createElement('a');r.href=it.url;r.target='_blank';r.rel='noopener';r.innerHTML=`<span>Fig.${f}</span><span>${it.title}</span><em>${fmt(it.date)}</em>`;ix.appendChild(r);});
+  a.innerHTML=`<div class="lab"><span class="tag">${it.type?"/ "+it.type:""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>`;p.appendChild(a);
+  const r=document.createElement('a');r.dataset.t=it.type||'';r.href=it.url;r.target='_blank';r.rel='noopener';r.innerHTML=`<span>Fig.${f}</span><span>${it.title}</span><em>${fmt(it.date)}</em>`;ix.appendChild(r);});
+ const cards=[...p.querySelectorAll('.card')],rows=[...ix.children],nav=document.getElementById('filters');
+ const layout=()=>{let k=0;cards.forEach(c=>{if(c.classList.contains('gone'))return;const [cs,sp,t]=L[k++%L.length];c.style.gridColumn=cs+'/span '+sp;c.style.marginTop=t+'px';c.classList.toggle('s',sp<=3)})};
+ const types=['All',...new Set(items.slice().reverse().map(i=>i.type).filter(Boolean))];
+ const apply=t=>{[...nav.children].forEach(b=>b.classList.toggle('on',b.dataset.t===t));const els=[...cards,...rows];
+  els.forEach(e=>e.classList.add('fade'));setTimeout(()=>{els.forEach(e=>e.classList.toggle('gone',t!=='All'&&e.dataset.t!==t));layout();
+  void p.offsetHeight;setTimeout(()=>els.forEach(e=>{if(!e.classList.contains('gone')){e.classList.remove('fade');e.classList.add('in')}}),30)},350)};
+ types.forEach(t=>{const b=document.createElement('button');b.textContent='/ '+t;b.dataset.t=t;b.onclick=()=>{apply(t);history.replaceState(null,'',t==='All'?location.pathname:'#'+encodeURIComponent(t))};nav.appendChild(b)});nav.firstChild.classList.add('on');const h=decodeURIComponent(location.hash.slice(1));if(types.includes(h))apply(h);
  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
  document.querySelectorAll('.card').forEach(c=>io.observe(c));});
 </script></body></html>
