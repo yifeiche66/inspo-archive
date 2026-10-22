@@ -48,7 +48,18 @@ header h1{order:1;font-size:clamp(56px,17vw,120px)}
 .filters{font-size:15px;padding:0 16px;gap:18px}
 .filters button{min-height:44px;display:flex;align-items:center}
 }
-</style></head><body>
+.note{position:absolute;z-index:20;top:12px;left:calc(100% - 24px);width:240px;background:#fbfaf6;color:#222;padding:16px 16px 18px 30px;font:14px/1.35 "Helvetica Neue",Arial,sans-serif;box-shadow:0 2px 4px #0001,0 18px 36px -16px #0004;opacity:0;visibility:hidden;transform:translateY(6px) rotate(.6deg);transition:opacity .25s,transform .25s,visibility .25s;pointer-events:none;
+background-image:radial-gradient(circle at 12px 50%,#eaeaea 5px,transparent 5.5px);background-size:24px 26px;background-repeat:repeat-y;border-left:1px dashed #d9d9d9}
+.card:hover .note,.card.open .note{opacity:1;visibility:visible;transform:rotate(.6deg)}
+.note .hd{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid #222;padding-bottom:8px;margin-bottom:4px;gap:8px}
+.note .hd b{font-weight:600}.note .no{border:1px solid #222;padding:2px 6px;font:14px "Courier Prime","Courier New",monospace;white-space:nowrap}
+.note .f{border-bottom:1px solid #d9d9d9;padding:6px 0}.note .f i{display:block;font-style:normal;font-size:14px;color:#8a8a8a;letter-spacing:.02em}
+.note .f span{font:14px/1.35 "Courier Prime","Courier New",monospace}
+.note .hand{font:22px/1.15 Caveat,cursive;color:#1f2f6b;margin-top:10px}
+.note .cn{position:absolute;right:8px;bottom:6px;border:1px solid #d9d9d9;color:#999;font:14px "Courier Prime",monospace;padding:0 4px}
+.card.flip .note{left:auto;right:calc(100% - 24px)}
+@media(max-width:760px){.note{left:8px!important;right:8px!important;top:auto;bottom:8px;width:auto}}
+</style><link href="https://fonts.googleapis.com/css2?family=Caveat&family=Courier+Prime&display=swap" rel="stylesheet"></head><body>
 <header><nav class="filters" id="filters"></nav><div class="credit">( Curated by Yifei )</div><h1>Specimens</h1>
 </header>
 <main class="plate" id="plate"></main>
@@ -62,7 +73,7 @@ fetch('data/items.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then
  items.slice().reverse().forEach((it,k)=>{const n=items.length-k,f=String(n).padStart(2,'0'),code=String.fromCharCode(65+Math.floor((n-1)/6))+'.'+(((n-1)%6)+1);
   const [c,s,t]=L[k%L.length];const a=document.createElement('a');a.className='card'+(s<=3?' s':'');a.dataset.t=it.type||'';a.href=it.url;a.target='_blank';a.rel='noopener';
   a.style.cssText=`grid-column:${c}/span ${s};margin-top:${t}px`;
-  a.innerHTML=`<div class="lab"><span class="tag">${it.type?"/ "+it.type:""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>`;p.appendChild(a);
+  a.innerHTML=`<div class="lab"><span class="tag">${it.type?"/ "+it.type:""}</span></div><img loading="lazy" src="${it.img}" alt="${it.title}"><div class="cap"><b>${it.title}</b><span>${it.creator} — ${fmt(it.date)}</span></div>${it.note?`<div class="note"><div class="hd"><b>${it.title}</b><span class="no">Fig.${f}</span></div><div class="f"><i>Tags</i><span>${it.note.tags.map(t=>"/ "+t).join(" ")}</span></div><div class="f"><i>Hook</i><span>${it.note.hook}</span></div>${it.note.contrast?`<div class="f"><i>Contrast</i><span>${it.note.contrast}</span></div>`:""}<div class="hand">${it.note.handwritten}</div><span class="cn">${code}</span></div>`:""}`;if(it.note){if(c+s>8)a.classList.add("flip");a.addEventListener("click",e=>{if(matchMedia("(hover:none)").matches&&!a.classList.contains("open")){e.preventDefault();document.querySelectorAll(".card.open").forEach(o=>o.classList.remove("open"));a.classList.add("open");}});}p.appendChild(a);
   const r=document.createElement('a');r.dataset.t=it.type||'';r.href=it.url;r.target='_blank';r.rel='noopener';r.innerHTML=`<span>Fig.${f}</span><span>${it.title}</span><em>${fmt(it.date)}</em>`;ix.appendChild(r);});
  const cards=[...p.querySelectorAll('.card')],rows=[...ix.children],nav=document.getElementById('filters');
  const layout=()=>{let k=0;cards.forEach(c=>{if(c.classList.contains('gone'))return;const [cs,sp,t]=L[k++%L.length];c.style.gridColumn=cs+'/span '+sp;c.style.marginTop=t+'px';c.classList.toggle('s',sp<=3)})};
