@@ -341,7 +341,18 @@
     "date": "2026-10-22",
     "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
     "img": "img/1-kimera-kuenzli-letterpress-cliche.jpg",
-    "type": "Print"
+    "type": "Print",
+    "note": {
+      "tags": [
+        "Tactile",
+        "Letterpress",
+        "Swiss grid",
+        "Typography"
+      ],
+      "hook": "the printing plate itself is the award",
+      "contrast": "heavy metal object vs strict, light grid",
+      "handwritten": "physical/tactile material + swiss grid system"
+    }
   },
   {
     "title": "TUNIC — in-game instruction manual",
