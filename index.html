@@ -107,7 +107,7 @@ fetch('data/items.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then
  qi.addEventListener('keydown',e=>{if(e.key==='Escape'){close();qi.blur()}});qi.addEventListener('blur',()=>{if(!qi.value.trim())close()});
  const cr=hd.querySelector('.credit'),mr=document.createElement('div');mr.className='mrow';const mv=()=>{if(mq.matches){hd.insertBefore(mr,nav);mr.append(cr,sb)}else{hd.insertBefore(cr,nav.nextSibling);hd.insertBefore(sb,cr.nextSibling);mr.remove()}sizeUl&&0};mq.addEventListener('change',mv);mv();
  const place=(a,k)=>{const n=a.querySelector('.note');if(!n||matchMedia('(max-width:760px)').matches){if(n){n.style.left=n.style.top=n.style.right='';}return;}
-  const c=a.getBoundingClientRect(),W=c.width,H=c.height,nw=n.offsetWidth,nh=n.offsetHeight,vw=innerWidth,vh=innerHeight,m=12,ov=40;
+  const c=a.getBoundingClientRect(),W=c.width,H=c.height,nw=n.offsetWidth,nh=n.offsetHeight,vw=innerWidth,vh=innerHeight,m=12,ov=110;
   const h=x=>{x=Math.sin((k+1)*12.9898+x*78.233)*43758.5453;return x-Math.floor(x)};const j=(h(1)-.5)*24,j2=(h(2)-.5)*24;
   const C={r:[W-ov,24+j],l:[ov-nw,24+j],a:[W*.35+j2,ov-nh-8+j*.5],b:[W*.2+j2,H-ov+j*.5],ar:[W-ov,-nh+ov+40+j],al:[ov-nw,-nh+ov+40+j],br:[W-ov,H-ov-40+j],bl:[ov-nw,H-ov-40+j]};
   let ks=['r','l','ar','al','a','br','bl','b'];const s=Math.floor(h(3)*3);ks=ks.slice(s,s+4).concat(ks.slice(0,s),ks.slice(s+4));
