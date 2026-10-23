@@ -48,9 +48,9 @@ header h1{order:1;font-size:clamp(56px,17vw,120px)}
 .filters{font-size:15px;padding:0 16px;gap:18px}
 .filters button{min-height:44px;display:flex;align-items:center}
 }
-.note{position:absolute;z-index:20;top:24px;left:calc(100% - 28px);width:320px;background:#f5f5f5;color:#222;padding:0 24px 0 34px;font:14px/1.35 "DM Mono",monospace;box-shadow:0 2px 4px #0001,0 18px 36px -16px #0004;opacity:0;visibility:hidden;transform:translateY(6px) rotate(.6deg);transition:opacity .25s,transform .25s,visibility .25s;pointer-events:none;
+.note{position:absolute;z-index:20;top:24px;left:calc(100% - 28px);width:320px;background:#f5f5f5;color:#222;padding:0 24px 0 34px;font:14px/1.35 "DM Mono",monospace;box-shadow:0 2px 4px #0001,0 18px 36px -16px #0004;opacity:0;visibility:hidden;transform:translateY(6px) rotate(var(--r,.6deg));transition:opacity .25s,transform .25s,visibility .25s;pointer-events:none;
 background-image:radial-gradient(circle at 12px 50%,#eaeaea 5px,transparent 5.5px);background-size:24px 26px;background-repeat:repeat-y;border-left:1px dashed #d9d9d9}
-.card:hover .note,.card.open .note{opacity:1;visibility:visible;transform:rotate(.6deg)}
+.card:hover .note,.card.open .note{opacity:1;visibility:visible;transform:rotate(var(--r,.6deg))}
 .note .hd{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid #222;padding:14px 10px;margin:0 -10px;gap:8px}
 .note .hd b{font-weight:400}.note .no{border:1px solid #222;padding:2px 6px;font:14px "DM Mono",monospace;white-space:nowrap}
 .note .f{padding:14px 10px 15px;margin:0 -10px;background:linear-gradient(90deg,#222 50%,transparent 50%) left bottom/8px 1px repeat-x}.note .f i{display:block;font-style:normal;font-size:12px;color:#8a8a8a;letter-spacing:.08em;text-transform:uppercase;margin-bottom:6px;line-height:1}
@@ -84,6 +84,17 @@ fetch('data/items.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then
   els.forEach(e=>e.classList.add('fade'));setTimeout(()=>{els.forEach(e=>e.classList.toggle('gone',t!=='All'&&e.dataset.t!==t));layout();
   void p.offsetHeight;setTimeout(()=>els.forEach(e=>{if(!e.classList.contains('gone')){e.classList.remove('fade');e.classList.add('in')}}),30)},350)};
  types.forEach(t=>{const b=document.createElement('button');b.textContent='/ '+t;b.dataset.t=t;b.onclick=()=>{apply(t);history.replaceState(null,'',t==='All'?location.pathname:'#'+encodeURIComponent(t))};nav.appendChild(b)});nav.style.gridTemplateRows='repeat('+Math.ceil(types.length/2)+',auto)';nav.firstChild.classList.add('on');const h=decodeURIComponent(location.hash.slice(1));if(types.includes(h))apply(h);
+ const place=(a,k)=>{const n=a.querySelector('.note');if(!n||matchMedia('(max-width:760px)').matches){if(n){n.style.left=n.style.top=n.style.right='';}return;}
+  const c=a.getBoundingClientRect(),W=c.width,H=c.height,nw=n.offsetWidth,nh=n.offsetHeight,vw=innerWidth,vh=innerHeight,m=12,ov=40;
+  const h=x=>{x=Math.sin((k+1)*12.9898+x*78.233)*43758.5453;return x-Math.floor(x)};const j=(h(1)-.5)*24,j2=(h(2)-.5)*24;
+  const C={r:[W-ov,24+j],l:[ov-nw,24+j],a:[W*.35+j2,ov-nh-8+j*.5],b:[W*.2+j2,H-ov+j*.5],ar:[W-ov,-nh+ov+40+j],al:[ov-nw,-nh+ov+40+j],br:[W-ov,H-ov-40+j],bl:[ov-nw,H-ov-40+j]};
+  let ks=['r','l','ar','al','a','br','bl','b'];const s=Math.floor(h(3)*3);ks=ks.slice(s,s+4).concat(ks.slice(0,s),ks.slice(s+4));
+  if(c.top+H/2>vh*.6)ks.sort((p,q)=>(q[0]=='a')-(p[0]=='a'));if(c.top+H/2<vh*.3)ks.sort((p,q)=>(q[0]=='b')-(p[0]=='b'));
+  let best=null,bs=-1e9;for(const key of ks){let[x,y]=C[key];x=Math.round(x);y=Math.round(y);const L=c.left+x,T=c.top+y;
+   const sc=-(Math.max(0,m-L)+Math.max(0,L+nw-(vw-m))+Math.max(0,m-T)+Math.max(0,T+nh-(vh-m)));if(sc===0){best=[x,y];break}if(sc>bs){bs=sc;best=[x,y]}}
+  let[x,y]=best;x=Math.min(Math.max(x,m-c.left),vw-m-nw-c.left);y=Math.min(Math.max(y,m-c.top),vh-m-nh-c.top);
+  n.style.right='auto';n.style.left=x+'px';n.style.top=y+'px';n.style.setProperty('--r',(-1+h(4)*2.2).toFixed(2)+'deg');};
+ document.querySelectorAll('.card').forEach((a,k)=>{a.addEventListener('mouseenter',()=>place(a,k));a.addEventListener('touchstart',()=>place(a,k),{passive:true})});
  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
  document.querySelectorAll('.card').forEach(c=>io.observe(c));});
 </script></body></html>
