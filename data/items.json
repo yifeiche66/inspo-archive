@@ -28,7 +28,7 @@
     "date": "2026-10-15",
     "url": "https://x.com/DesignReviewed/status/2110658827976847424",
     "img": "img/03-ballmer-olivetti-telescriventi.jpg",
-    "type": "Poster",
+    "type": "Print",
     "note": {
       "tags": [
         "Olivetti",
@@ -59,7 +59,7 @@
     "date": "2026-10-16",
     "url": "https://internetphonebook.net/",
     "img": "img/05-internet-phone-book.jpg",
-    "type": "Book"
+    "type": "Print"
   },
   {
     "title": "Karakami woodblock papers",
@@ -67,7 +67,7 @@
     "date": "2026-10-19",
     "url": "https://kirakaracho.jp/en/production/",
     "img": "img/kira-karacho-karakami-printing.jpg",
-    "type": "Paper"
+    "type": "Print"
   },
   {
     "title": "Dictionary of the Illegible",
@@ -75,7 +75,7 @@
     "date": "2026-10-19",
     "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
     "img": "img/dictionary-of-the-illegible-cover.jpg",
-    "type": "Book"
+    "type": "Print"
   },
   {
     "title": "Routine — the C.A.T. handheld HUD",
@@ -115,7 +115,7 @@
     "date": "2026-10-21",
     "url": "https://www.labrujariso.com/products/fuego-camina-conmigo",
     "img": "img/01-fuego-camina-conmigo-book.jpg",
-    "type": "Book"
+    "type": "Print"
   },
   {
     "title": "No Magic in Riso",
@@ -123,7 +123,7 @@
     "date": "2026-10-21",
     "url": "https://odotoo.com/no-magic-in-riso/",
     "img": "img/02-no-magic-in-riso-k-ramps.jpg",
-    "type": "Book"
+    "type": "Print"
   },
   {
     "title": "Observation — station-AI interface",
@@ -155,7 +155,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
     "img": "img/nono-tracing-paper-poster.jpg",
-    "type": "Poster"
+    "type": "Print"
   },
   {
     "title": "Typography book, revisited with flip interactions",
@@ -163,7 +163,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/premiumtantan/status/2109024841290654186",
     "img": "img/premiumtantan-book.jpg",
-    "type": "Book"
+    "type": "Print"
   },
   {
     "title": "Portfolio website — 'What's in m' bag'",
@@ -641,7 +641,7 @@
     "date": "2026-10-23",
     "url": "https://fontsinuse.com/uses/80448/folktory-slit-rail-system",
     "img": "img/1-folktory-slit-rail-system.png",
-    "type": "Poster",
+    "type": "Print",
     "note": {
       "tags": [
         "Faded print",
