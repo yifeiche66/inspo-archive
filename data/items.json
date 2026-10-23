@@ -293,7 +293,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/hiro000509/status/2086422239889760720",
     "img": "img/hiro.jpg",
-    "type": "Packaging"
+    "type": "Packaging",
+    "note": {
+      "tags": [
+        "Series design",
+        "Ephemeral",
+        "Atmospheric",
+        "Colour palette",
+        "Pattern",
+        "Cohesive system",
+        "Physical media",
+        "Soft gradient"
+      ],
+      "hook": "ten variations that still read as one set",
+      "contrast": "different palettes and patterns held together by one mood",
+      "handwritten": "different palettes and patterns, same ephemeral feel, cohesive as a set"
+    }
   },
   {
     "title": "Pink tear-through print animation",
@@ -315,7 +330,7 @@
       ],
       "hook": "printed frames animated, so each one carries its own texture",
       "contrast": "flat print colour that moves like it's alive",
-      "handwritten": "print animation, which makes the color, movements and texture unique, like materiality of things"
+      "handwritten": "print animation makes the colour, movement and texture unique, like the materiality of things"
     }
   },
   {
@@ -338,7 +353,7 @@
       ],
       "hook": "a cargo screen with real depth, tilted and layered in 3D",
       "contrast": "flat HUD data on a spatial, parallax plane",
-      "handwritten": "like the 3d perspective and parallax, game ui, hud elements, immersive interactions"
+      "handwritten": "love the 3d perspective and parallax, so immersive"
     }
   },
   {
@@ -361,7 +376,7 @@
       ],
       "hook": "a graphic-design grid turned into an object, in the Braun tradition",
       "contrast": "strict precision vs a sense of fun",
-      "handwritten": "beautiful industrial design, makes tech products fun, applies grid system from graphic design to industrial product"
+      "handwritten": "makes tech products fun. grid system from graphic design applied to a product"
     }
   },
   {
@@ -383,7 +398,7 @@
       ],
       "hook": "a whole OS built from colourful blocks",
       "contrast": "calm blocks vs lively motion",
-      "handwritten": "beautifully designed OS, block design with beautiful color palette, lively motion"
+      "handwritten": "beautiful os, block design with a lovely palette, lively motion"
     }
   },
   {
@@ -405,7 +420,7 @@
       ],
       "hook": "a drawing that plays back as music",
       "contrast": "loose hand-drawn marks vs precise sound",
-      "handwritten": "one of my favorite things i saw this year, drawing to music/sound, both visual and sound design are nice"
+      "handwritten": "one of my favourite things this year, drawing to music. visual and sound design both nice"
     }
   },
   {
@@ -427,7 +442,7 @@
       ],
       "hook": "the printing plate itself is the award",
       "contrast": "heavy metal object vs strict, light grid",
-      "handwritten": "physical/tactile material + swiss grid system"
+      "handwritten": "physical, tactile material + swiss grid"
     }
   },
   {
@@ -450,7 +465,7 @@
       ],
       "hook": "a real-feeling printed manual living inside the game",
       "contrast": "physical print texture in a digital world",
-      "handwritten": "lovely to see realistic print texture and great graphic design in game UI"
+      "handwritten": "lovely realistic print texture, great graphic design in game ui"
     }
   },
   {
@@ -471,7 +486,7 @@
         "Quiet architecture"
       ],
       "hook": "light that makes the stairwell feel in-between",
-      "handwritten": "beautiful color and texture, the light creates a liminal feeling"
+      "handwritten": "beautiful colour and texture, the light feels liminal"
     }
   },
   {
@@ -495,7 +510,7 @@
       ],
       "hook": "flowing geometry, shot with care",
       "contrast": "organic curves vs precise structure",
-      "handwritten": "beautiful architectural design, geometry and photographic qualities like coloring and lighting are both good"
+      "handwritten": "beautiful geometry, and the colouring and lighting are both so good"
     }
   },
   {
@@ -518,7 +533,7 @@
       ],
       "hook": "tinted glass against cold metal",
       "contrast": "small smooth pod vs huge raw concrete wall",
-      "handwritten": "industrial and retro futurist, love the glass color with metallic material, nice contrast between the pod and the big concrete wall behind, cinematic look"
+      "handwritten": "love the glass colour with the metal, and the pod against that huge concrete wall. so cinematic"
     }
   },
   {
