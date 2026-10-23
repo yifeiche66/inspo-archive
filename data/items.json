@@ -317,7 +317,22 @@
     "date": "2026-10-21",
     "url": "https://teenage.engineering/products/tp-7",
     "img": "img/tp7.webp",
-    "type": "Device"
+    "type": "Device",
+    "note": {
+      "tags": [
+        "Industrial design",
+        "Retro-futurist",
+        "Grid system",
+        "Playful tech",
+        "Braun lineage",
+        "Dieter Rams",
+        "Machined aluminium",
+        "Minimal controls"
+      ],
+      "hook": "a graphic-design grid turned into an object, in the Braun tradition",
+      "contrast": "strict precision vs a sense of fun",
+      "handwritten": "beautiful industrial design, makes tech products fun, applies grid system from graphic design to industrial product"
+    }
   },
   {
     "title": "Pond — early preview",
@@ -325,7 +340,21 @@
     "date": "2026-10-21",
     "url": "https://x.com/bflycomputer/status/2105695834511982836",
     "img": "img/bfly-pond.jpg",
-    "type": "Interface"
+    "type": "Interface",
+    "note": {
+      "tags": [
+        "OS design",
+        "Block layout",
+        "Colour palette",
+        "Motion",
+        "Bento grid",
+        "Soft UI",
+        "Playful computing"
+      ],
+      "hook": "a whole OS built from colourful blocks",
+      "contrast": "calm blocks vs lively motion",
+      "handwritten": "beautifully designed OS, block design with beautiful color palette, lively motion"
+    }
   },
   {
     "title": "Play_Music_Theory — drawings that play as music",
@@ -333,7 +362,21 @@
     "date": "2026-10-21",
     "url": "https://x.com/playmusictheory/status/2099610933731737810",
     "img": "img/pmt.jpg",
-    "type": "Interface"
+    "type": "Interface",
+    "note": {
+      "tags": [
+        "Drawing to sound",
+        "Generative",
+        "Sound design",
+        "Creative tool",
+        "Visual music",
+        "Playful instrument",
+        "Hand-drawn interface"
+      ],
+      "hook": "a drawing that plays back as music",
+      "contrast": "loose hand-drawn marks vs precise sound",
+      "handwritten": "one of my favorite things i saw this year, drawing to music/sound, both visual and sound design are nice"
+    }
   },
   {
     "title": "Otto Künzli — Ambassador of Jewelry certificate",
@@ -347,7 +390,10 @@
         "Tactile",
         "Letterpress",
         "Swiss grid",
-        "Typography"
+        "Typography",
+        "International Style",
+        "Object as print",
+        "Metal type"
       ],
       "hook": "the printing plate itself is the award",
       "contrast": "heavy metal object vs strict, light grid",
@@ -368,7 +414,9 @@
         "Graphic design",
         "Diegetic",
         "Watercolour",
-        "Hand-drawn"
+        "Hand-drawn",
+        "Retro game manual",
+        "Invented script"
       ],
       "hook": "a real-feeling printed manual living inside the game",
       "contrast": "physical print texture in a digital world",
@@ -387,7 +435,10 @@
         "Colour",
         "Texture",
         "Light",
-        "Liminal"
+        "Liminal",
+        "Monochrome blue",
+        "Grain",
+        "Quiet architecture"
       ],
       "hook": "light that makes the stairwell feel in-between",
       "handwritten": "beautiful color and texture, the light creates a liminal feeling"
@@ -408,7 +459,9 @@
         "Light",
         "Organic",
         "Retro-futurism",
-        "Liminal"
+        "Liminal",
+        "Biomorphic",
+        "Parametric"
       ],
       "hook": "flowing geometry, shot with care",
       "contrast": "organic curves vs precise structure",
@@ -427,7 +480,11 @@
         "Retro-futurist",
         "Industrial",
         "Glass + Metal",
-        "Cinematic"
+        "Cinematic",
+        "Space-age",
+        "Brutalist backdrop",
+        "Tinted glass",
+        "Sci-fi set design"
       ],
       "hook": "tinted glass against cold metal",
       "contrast": "small smooth pod vs huge raw concrete wall",
@@ -446,7 +503,10 @@
         "Interaction",
         "Direct manipulation",
         "Canvas UI",
-        "Motion"
+        "Motion",
+        "Spatial UI",
+        "Tactile software",
+        "Gesture-led"
       ],
       "hook": "the select-and-bundle gesture",
       "handwritten": "cool interactions, especially the select and bundle"
@@ -463,7 +523,10 @@
       "tags": [
         "Kinetic type",
         "Motion",
-        "Music video"
+        "Music video",
+        "Expressive typography",
+        "Rhythm-led",
+        "Title design"
       ],
       "hook": "type that performs through movement",
       "handwritten": "great typographic expression with motion"
