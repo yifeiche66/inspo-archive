@@ -1,608 +1,708 @@
 [
-  {
-    "title": "Japanese commercial art, giraffe print (1930)",
-    "creator": "via @DesignReviewed",
-    "date": "2026-10-14",
-    "url": "https://x.com/DesignReviewed",
-    "img": "img/4-designreviewed-1930-commercial-art.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Olivetti Telescriventi advert",
-    "creator": "Walter Ballmer, 1964",
-    "date": "2026-10-15",
-    "url": "https://x.com/DesignReviewed/status/2110658827976847424",
-    "img": "img/03-ballmer-olivetti-telescriventi.jpg",
-    "type": "Poster"
-  },
-  {
-    "title": "Quiet Media — Inaugural Issue pocket",
-    "creator": "Charlotte Rubesa",
-    "date": "2026-10-16",
-    "url": "https://quietmedia.metalabel.com/inauguraledition",
-    "img": "img/01-quiet-media-pocket.jpg",
-    "type": "Packaging"
-  },
-  {
-    "title": "Internet Phone Book — Issue One",
-    "creator": "Elliott Cost & Kristoffer Tjalve",
-    "date": "2026-10-16",
-    "url": "https://internetphonebook.net/",
-    "img": "img/05-internet-phone-book.jpg",
-    "type": "Book"
-  },
-  {
-    "title": "Karakami woodblock papers",
-    "creator": "Kira Karacho, Kyoto",
-    "date": "2026-10-19",
-    "url": "https://kirakaracho.jp/en/production/",
-    "img": "img/kira-karacho-karakami-printing.jpg",
-    "type": "Paper"
-  },
-  {
-    "title": "Dictionary of the Illegible",
-    "creator": "Laurenz Brunner / Source Type",
-    "date": "2026-10-19",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "img": "img/dictionary-of-the-illegible-cover.jpg",
-    "type": "Book"
-  },
-  {
-    "title": "Routine — the C.A.T. handheld HUD",
-    "creator": "Lunar Software",
-    "date": "2026-10-20",
-    "url": "https://www.routinegame.com/",
-    "img": "img/01-routine-cat-crt-viewfinder.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Madeleine Cultured Butter",
-    "creator": "Studio Hi Ho",
-    "date": "2026-10-20",
-    "url": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
-    "img": "img/02-madeleine-paddled-butter-specimens.jpg",
-    "type": "Packaging"
-  },
-  {
-    "title": "Chants of Sennaar — glyph notebook",
-    "creator": "Rundisc",
-    "date": "2026-10-20",
-    "url": "https://www.rundisc.io/chants-of-sennaar/",
-    "img": "img/03-chants-of-sennaar-glyph-notebook.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "mui Board Gen 2",
-    "creator": "mui Lab, Kyoto",
-    "date": "2026-10-20",
-    "url": "https://muiboard.com/products/mui-board-gen-2",
-    "img": "img/05-mui-board-gen2-wood-display.jpg",
-    "type": "Device"
-  },
-  {
-    "title": "Fuego Camina Conmigo",
-    "creator": "Ediciones Réplica × La Bruja Riso",
-    "date": "2026-10-21",
-    "url": "https://www.labrujariso.com/products/fuego-camina-conmigo",
-    "img": "img/01-fuego-camina-conmigo-book.jpg",
-    "type": "Book"
-  },
-  {
-    "title": "No Magic in Riso",
-    "creator": "O.OO, Taipei",
-    "date": "2026-10-21",
-    "url": "https://odotoo.com/no-magic-in-riso/",
-    "img": "img/02-no-magic-in-riso-k-ramps.jpg",
-    "type": "Book"
-  },
-  {
-    "title": "Observation — station-AI interface",
-    "creator": "No Code",
-    "date": "2026-10-21",
-    "url": "https://store.steampowered.com/app/906100/Observation/",
-    "img": "img/03-observation-clamp-detachment.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Music Bild — music player concept",
-    "creator": "Slava Kornilov",
-    "date": "2026-10-21",
-    "url": "https://x.com/slavakornilov/status/2111937150455316607",
-    "img": "img/slavakornilov-music-bild.jpg",
-    "type": "Interface"
-  },
-  {
-    "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
-    "creator": "Julián Leiss",
-    "date": "2026-10-21",
-    "url": "https://x.com/julianleiss/status/2110868325052149925",
-    "img": "img/julianleiss-ajedrez.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "House for Daydreams — tracing-paper texture poster",
-    "creator": "Nono Archive (@nono_ai_archive)",
-    "date": "2026-10-21",
-    "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
-    "img": "img/nono-tracing-paper-poster.jpg",
-    "type": "Poster"
-  },
-  {
-    "title": "Typography book, revisited with flip interactions",
-    "creator": "Tân Tân Nguyễn",
-    "date": "2026-10-21",
-    "url": "https://x.com/premiumtantan/status/2109024841290654186",
-    "img": "img/premiumtantan-book.jpg",
-    "type": "Book"
-  },
-  {
-    "title": "Portfolio website — 'What's in m' bag'",
-    "creator": "Chi Quach",
-    "date": "2026-10-21",
-    "url": "https://x.com/chiquwch/status/2107275884961124515",
-    "img": "img/chiquwch-website.jpg",
-    "type": "Interface"
-  },
-  {
-    "title": "State of Generative Media, Vol. 2 — report site",
-    "creator": "fal",
-    "date": "2026-10-21",
-    "url": "https://x.com/fal/status/2102461868711247876",
-    "img": "img/fal-report.jpg",
-    "type": "Interface"
-  },
-  {
-    "title": "Kitten stop-motion animation",
-    "creator": "Vanessa Stockard & Jenni Pasanen",
-    "date": "2026-10-21",
-    "url": "https://x.com/cheerforart/status/1798139113453035884",
-    "img": "img/cheerforart-kitten.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Kimi film — archival objects & index tabs",
-    "creator": "Kimi (Moonshot AI)",
-    "date": "2026-10-21",
-    "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
-    "img": "img/kimi.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Memory vessel — soft, nostalgic object",
-    "creator": "Echo Zhou",
-    "date": "2026-10-21",
-    "url": "https://x.com/_echozhou/status/2107559317318803687",
-    "img": "img/echozhou-memory-vessel.jpg",
-    "type": "Illustration"
-  },
-  {
-    "title": "Alan Wake II — case board",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/alan-wake-ii/",
-    "img": "img/iig-alan-wake-ii-case-board.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Control Resonant — ability select",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/control-resonant/",
-    "img": "img/iig-control-resonant-ability-select.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Control — correspondence reader",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/control/",
-    "img": "img/iig-control-correspondence.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Carlo Nason glass lamps",
-    "creator": "Carlo Nason (via Interior Hub)",
-    "date": "2026-10-21",
-    "url": "https://x.com/INTERIORBYHUT/status/2110370078289981455",
-    "img": "img/hut-nason.jpg",
-    "type": "Device"
-  },
-  {
-    "title": "Glowing pendant light in a dim interior",
-    "creator": "via @manwon_man",
-    "date": "2026-10-21",
-    "url": "https://x.com/manwon_man/status/2105480360637464788",
-    "img": "img/manwon-lamp.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Butterfly web piece — shown at 39 Great Jones St",
-    "creator": "Chia (@nonperformant)",
-    "date": "2026-10-21",
-    "url": "https://x.com/nonperformant/status/2103871168881344999",
-    "img": "img/chia.jpg",
-    "type": "Interface"
-  },
-  {
-    "title": "Flat-lay compositions — pens & coloured squares",
-    "creator": "@mangoddango",
-    "date": "2026-10-21",
-    "url": "https://x.com/mangoddango/status/2103427289648189811",
-    "img": "img/mango.jpg",
-    "type": "Illustration"
-  },
-  {
-    "title": "Blue-washed architecture image",
-    "creator": "@mehavves",
-    "date": "2026-10-21",
-    "url": "https://x.com/mehavves/status/2101581525137432686",
-    "img": "img/mehavves.jpg",
-    "type": "Illustration"
-  },
-  {
-    "title": "Flowers appearing one by one in an empty vase",
-    "creator": "via @manwon_man",
-    "date": "2026-10-21",
-    "url": "https://x.com/manwon_man/status/2101213222565290451",
-    "img": "img/manwon-flowers.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Remedy art direction — in-game frames",
-    "creator": "Remedy Entertainment (via Ruancarlo Silva)",
-    "date": "2026-10-21",
-    "url": "https://x.com/ruancarlo97/status/2100958641067102551",
-    "img": "img/ruan-remedy.jpg",
-    "type": "Game UI"
-  },
-  {
-    "title": "Dancheong-inspired pattern set",
-    "creator": "via @gwamoleipstop",
-    "date": "2026-10-21",
-    "url": "https://x.com/gwamoleipstop/status/2100474759767331276",
-    "img": "img/gwam-dancheong.jpg",
-    "type": "Identity"
-  },
-  {
-    "title": "Runebender GPUI — mid-gray font editor theme",
-    "creator": "Eli Heuer",
-    "date": "2026-10-21",
-    "url": "https://x.com/eliheuer/status/2096679043303416162",
-    "img": "img/eli-runebender.jpg",
-    "type": "Interface"
-  },
-  {
-    "title": "Artemis, Athena & Persephone — vase-painting illustration",
-    "creator": "Roa2112",
-    "date": "2026-10-21",
-    "url": "https://x.com/Roa21123/status/2093692608900161745",
-    "img": "img/roa.jpg",
-    "type": "Illustration",
-    "note": {
-      "tags": [
-        "Illustration",
-        "Greek vase painting",
-        "Black-figure",
-        "Myth",
-        "Historical style",
-        "Ornament",
-        "Digital revival"
-      ],
-      "hook": "digital illustration drawn in an ancient vase-painting style",
-      "contrast": "an ancient visual language made with modern tools",
-      "handwritten": "reimagining digital illustration with ancient historical style"
-    }
-  },
-  {
-    "title": "Travel tile designs as a graphic source",
-    "creator": "via @gwamoleipstop",
-    "date": "2026-10-21",
-    "url": "https://x.com/gwamoleipstop/status/2086294816426750431",
-    "img": "img/gwam-tiles.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Cultural pattern",
-        "Vernacular design",
-        "Tile motifs",
-        "Historical reference",
-        "Print",
-        "Ornament",
-        "Found graphics"
-      ],
-      "hook": "real-world tiles turned into a graphic language",
-      "contrast": "historical craft brought into modern print",
-      "handwritten": "taking inspo from real world, cultural and historical references and putting them into print"
-    }
-  },
-  {
-    "title": "artwork.01–10 — clouded CD case",
-    "creator": "Hiro Ichikawa (市川央)",
-    "date": "2026-10-21",
-    "url": "https://x.com/hiro000509/status/2086422239889760720",
-    "img": "img/hiro.jpg",
-    "type": "Packaging",
-    "note": {
-      "tags": [
-        "Series design",
-        "Ephemeral",
-        "Atmospheric",
-        "Colour palette",
-        "Pattern",
-        "Cohesive system",
-        "Physical media",
-        "Soft gradient"
-      ],
-      "hook": "ten variations that still read as one set",
-      "contrast": "different palettes and patterns held together by one mood",
-      "handwritten": "different palettes and patterns, same ephemeral feel, cohesive as a set"
-    }
-  },
-  {
-    "title": "Pink tear-through print animation",
-    "creator": "@annaxmalina",
-    "date": "2026-10-21",
-    "url": "https://x.com/annaxmalina/status/2075626855562924429",
-    "img": "img/anna.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Print animation",
-        "Materiality",
-        "Riso-like texture",
-        "Pink",
-        "Stop-motion",
-        "Tactile motion",
-        "Analogue grain",
-        "Paper"
-      ],
-      "hook": "printed frames animated, so each one carries its own texture",
-      "contrast": "flat print colour that moves like it's alive",
-      "handwritten": "print animation makes the colour, movement and texture unique, like the materiality of things"
-    }
-  },
-  {
-    "title": "Death Stranding — cargo management screen",
-    "creator": "Kojima Productions",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/death-stranding/",
-    "img": "img/death-stranding-cargo.png",
-    "type": "Game UI",
-    "note": {
-      "tags": [
-        "Game UI",
-        "HUD",
-        "3D perspective",
-        "Parallax",
-        "Immersive interaction",
-        "Diegetic",
-        "Sci-fi interface",
-        "Kojima Productions"
-      ],
-      "hook": "a cargo screen with real depth, tilted and layered in 3D",
-      "contrast": "flat HUD data on a spatial, parallax plane",
-      "handwritten": "love the 3d perspective and parallax, so immersive"
-    }
-  },
-  {
-    "title": "TP–7 field recorder",
-    "creator": "teenage engineering",
-    "date": "2026-10-21",
-    "url": "https://teenage.engineering/products/tp-7",
-    "img": "img/tp7.webp",
-    "type": "Device",
-    "note": {
-      "tags": [
-        "Industrial design",
-        "Retro-futurist",
-        "Grid system",
-        "Playful tech",
-        "Braun lineage",
-        "Dieter Rams",
-        "Machined aluminium",
-        "Minimal controls"
-      ],
-      "hook": "a graphic-design grid turned into an object, in the Braun tradition",
-      "contrast": "strict precision vs a sense of fun",
-      "handwritten": "makes tech products fun. grid system from graphic design applied to a product"
-    }
-  },
-  {
-    "title": "Pond — early preview",
-    "creator": "Butterfly (@bflycomputer)",
-    "date": "2026-10-21",
-    "url": "https://x.com/bflycomputer/status/2105695834511982836",
-    "img": "img/bfly-pond.jpg",
-    "type": "Interface",
-    "note": {
-      "tags": [
-        "OS design",
-        "Block layout",
-        "Colour palette",
-        "Motion",
-        "Bento grid",
-        "Soft UI",
-        "Playful computing"
-      ],
-      "hook": "a whole OS built from colourful blocks",
-      "contrast": "calm blocks vs lively motion",
-      "handwritten": "beautiful os, block design with a lovely palette, lively motion"
-    }
-  },
-  {
-    "title": "Play_Music_Theory — drawings that play as music",
-    "creator": "Play_Music_Theory",
-    "date": "2026-10-21",
-    "url": "https://x.com/playmusictheory/status/2099610933731737810",
-    "img": "img/pmt.jpg",
-    "type": "Interface",
-    "note": {
-      "tags": [
-        "Drawing to sound",
-        "Generative",
-        "Sound design",
-        "Creative tool",
-        "Visual music",
-        "Playful instrument",
-        "Hand-drawn interface"
-      ],
-      "hook": "a drawing that plays back as music",
-      "contrast": "loose hand-drawn marks vs precise sound",
-      "handwritten": "one of my favourite things this year, drawing to music. visual and sound design both nice"
-    }
-  },
-  {
-    "title": "Otto Künzli — Ambassador of Jewelry certificate",
-    "creator": "kimera (Michael Clasen & Johannes Pejas)",
-    "date": "2026-10-22",
-    "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
-    "img": "img/1-kimera-kuenzli-letterpress-cliche.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Tactile",
-        "Letterpress",
-        "Swiss grid",
-        "Typography",
-        "International Style",
-        "Object as print",
-        "Metal type"
-      ],
-      "hook": "the printing plate itself is the award",
-      "contrast": "heavy metal object vs strict, light grid",
-      "handwritten": "physical, tactile material + swiss grid"
-    }
-  },
-  {
-    "title": "TUNIC — in-game instruction manual",
-    "creator": "Andrew Shouldice / Finji",
-    "date": "2026-10-22",
-    "url": "https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/",
-    "img": "img/3-tunic-manual-cathedral.png",
-    "type": "Game UI",
-    "note": {
-      "tags": [
-        "Print texture",
-        "Game UI",
-        "Graphic design",
-        "Diegetic",
-        "Watercolour",
-        "Hand-drawn",
-        "Retro game manual",
-        "Invented script"
-      ],
-      "hook": "a real-feeling printed manual living inside the game",
-      "contrast": "physical print texture in a digital world",
-      "handwritten": "lovely realistic print texture, great graphic design in game ui"
-    }
-  },
-  {
-    "title": "Blue Stairwell Print",
-    "creator": "Wunder",
-    "date": "2026-10-22",
-    "url": "https://x.com/WunderJp/status/2113221469811749084",
-    "img": "img/wunder.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Colour",
-        "Texture",
-        "Light",
-        "Liminal",
-        "Monochrome blue",
-        "Grain",
-        "Quiet architecture"
-      ],
-      "hook": "light that makes the stairwell feel in-between",
-      "handwritten": "beautiful colour and texture, the light feels liminal"
-    }
-  },
-  {
-    "title": "Organic Futurism of Ross Lovegrove",
-    "creator": "Ross Lovegrove (via @luusssso)",
-    "date": "2026-10-22",
-    "url": "https://x.com/luusssso/status/2113001924509462563",
-    "img": "img/lovegrove.jpg",
-    "type": "Device",
-    "note": {
-      "tags": [
-        "Architecture",
-        "Organic geometry",
-        "Photography",
-        "Light",
-        "Organic",
-        "Retro-futurism",
-        "Liminal",
-        "Biomorphic",
-        "Parametric"
-      ],
-      "hook": "flowing geometry, shot with care",
-      "contrast": "organic curves vs precise structure",
-      "handwritten": "beautiful geometry, and the colouring and lighting are both so good"
-    }
-  },
-  {
-    "title": "Mercedes-Benz Museum Elevator Pods",
-    "creator": "via @SciFiArchives",
-    "date": "2026-10-22",
-    "url": "https://x.com/SciFiArchives/status/2112914553545830777",
-    "img": "img/mercedes-elevator.jpg",
-    "type": "Device",
-    "note": {
-      "tags": [
-        "Retro-futurist",
-        "Industrial",
-        "Glass + Metal",
-        "Cinematic",
-        "Space-age",
-        "Brutalist backdrop",
-        "Tinted glass",
-        "Sci-fi set design"
-      ],
-      "hook": "tinted glass against cold metal",
-      "contrast": "small smooth pod vs huge raw concrete wall",
-      "handwritten": "love the glass colour with the metal, and the pod against that huge concrete wall. so cinematic"
-    }
-  },
-  {
-    "title": "Canvas-and-Document Editor",
-    "creator": "Yaro Svyatykh",
-    "date": "2026-10-22",
-    "url": "https://x.com/svyatykh/status/2112908234805940646",
-    "img": "img/svyatykh.jpg",
-    "type": "Interface",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Direct manipulation",
-        "Canvas UI",
-        "Motion",
-        "Spatial UI",
-        "Tactile software",
-        "Gesture-led"
-      ],
-      "hook": "the select-and-bundle gesture",
-      "handwritten": "cool interactions, especially the select and bundle"
-    }
-  },
-  {
-    "title": "Shadows of Unknown MV Typography",
-    "creator": "Vermii",
-    "date": "2026-10-22",
-    "url": "https://x.com/vermillionamvs/status/2112783968357781758",
-    "img": "img/vermii.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Kinetic type",
-        "Motion",
-        "Music video",
-        "Expressive typography",
-        "Rhythm-led",
-        "Title design"
-      ],
-      "hook": "type that performs through movement",
-      "handwritten": "great typographic expression with motion"
-    }
+ {
+  "title": "Japanese commercial art, giraffe print (1930)",
+  "creator": "via @DesignReviewed",
+  "date": "2026-10-14",
+  "url": "https://x.com/DesignReviewed",
+  "img": "img/4-designreviewed-1930-commercial-art.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Japanese commercial art",
+    "1930s",
+    "Showa-era print",
+    "Playful",
+    "Animal illustration",
+    "Graphic layout",
+    "Flat colour",
+    "Vintage advertising"
+   ],
+   "hook": "a giraffe that's goofy but sits in a really well-built layout",
+   "contrast": "a silly subject against a disciplined composition",
+   "handwritten": "it's just really fun"
   }
+ },
+ {
+  "title": "Olivetti Telescriventi advert",
+  "creator": "Walter Ballmer, 1964",
+  "date": "2026-10-15",
+  "url": "https://x.com/DesignReviewed/status/2110658827976847424",
+  "img": "img/03-ballmer-olivetti-telescriventi.jpg",
+  "type": "Poster",
+  "note": {
+   "tags": [
+    "Olivetti",
+    "Mid-century advertising",
+    "2D + 3D",
+    "Editorial layout",
+    "Expressive",
+    "Print texture",
+    "Italian modernism",
+    "Corporate design"
+   ],
+   "hook": "an ad that's tidy like an editorial page but still loose and playful",
+   "contrast": "flat graphic shapes against a solid 3D machine",
+   "handwritten": "love the 2d + 3d mix, editorial but still expressive, old print texture"
+  }
+ },
+ {
+  "title": "Quiet Media — Inaugural Issue pocket",
+  "creator": "Charlotte Rubesa",
+  "date": "2026-10-16",
+  "url": "https://quietmedia.metalabel.com/inauguraledition",
+  "img": "img/01-quiet-media-pocket.jpg",
+  "type": "Packaging"
+ },
+ {
+  "title": "Internet Phone Book — Issue One",
+  "creator": "Elliott Cost & Kristoffer Tjalve",
+  "date": "2026-10-16",
+  "url": "https://internetphonebook.net/",
+  "img": "img/05-internet-phone-book.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "Karakami woodblock papers",
+  "creator": "Kira Karacho, Kyoto",
+  "date": "2026-10-19",
+  "url": "https://kirakaracho.jp/en/production/",
+  "img": "img/kira-karacho-karakami-printing.jpg",
+  "type": "Paper"
+ },
+ {
+  "title": "Dictionary of the Illegible",
+  "creator": "Laurenz Brunner / Source Type",
+  "date": "2026-10-19",
+  "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+  "img": "img/dictionary-of-the-illegible-cover.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "Routine — the C.A.T. handheld HUD",
+  "creator": "Lunar Software",
+  "date": "2026-10-20",
+  "url": "https://www.routinegame.com/",
+  "img": "img/01-routine-cat-crt-viewfinder.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Madeleine Cultured Butter",
+  "creator": "Studio Hi Ho",
+  "date": "2026-10-20",
+  "url": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
+  "img": "img/02-madeleine-paddled-butter-specimens.jpg",
+  "type": "Packaging"
+ },
+ {
+  "title": "Chants of Sennaar — glyph notebook",
+  "creator": "Rundisc",
+  "date": "2026-10-20",
+  "url": "https://www.rundisc.io/chants-of-sennaar/",
+  "img": "img/03-chants-of-sennaar-glyph-notebook.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "mui Board Gen 2",
+  "creator": "mui Lab, Kyoto",
+  "date": "2026-10-20",
+  "url": "https://muiboard.com/products/mui-board-gen-2",
+  "img": "img/05-mui-board-gen2-wood-display.jpg",
+  "type": "Device"
+ },
+ {
+  "title": "Fuego Camina Conmigo",
+  "creator": "Ediciones Réplica × La Bruja Riso",
+  "date": "2026-10-21",
+  "url": "https://www.labrujariso.com/products/fuego-camina-conmigo",
+  "img": "img/01-fuego-camina-conmigo-book.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "No Magic in Riso",
+  "creator": "O.OO, Taipei",
+  "date": "2026-10-21",
+  "url": "https://odotoo.com/no-magic-in-riso/",
+  "img": "img/02-no-magic-in-riso-k-ramps.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "Observation — station-AI interface",
+  "creator": "No Code",
+  "date": "2026-10-21",
+  "url": "https://store.steampowered.com/app/906100/Observation/",
+  "img": "img/03-observation-clamp-detachment.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Music Bild — music player concept",
+  "creator": "Slava Kornilov",
+  "date": "2026-10-21",
+  "url": "https://x.com/slavakornilov/status/2111937150455316607",
+  "img": "img/slavakornilov-music-bild.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
+  "creator": "Julián Leiss",
+  "date": "2026-10-21",
+  "url": "https://x.com/julianleiss/status/2110868325052149925",
+  "img": "img/julianleiss-ajedrez.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "House for Daydreams — tracing-paper texture poster",
+  "creator": "Nono Archive (@nono_ai_archive)",
+  "date": "2026-10-21",
+  "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
+  "img": "img/nono-tracing-paper-poster.jpg",
+  "type": "Poster"
+ },
+ {
+  "title": "Typography book, revisited with flip interactions",
+  "creator": "Tân Tân Nguyễn",
+  "date": "2026-10-21",
+  "url": "https://x.com/premiumtantan/status/2109024841290654186",
+  "img": "img/premiumtantan-book.jpg",
+  "type": "Book"
+ },
+ {
+  "title": "Portfolio website — 'What's in m' bag'",
+  "creator": "Chi Quach",
+  "date": "2026-10-21",
+  "url": "https://x.com/chiquwch/status/2107275884961124515",
+  "img": "img/chiquwch-website.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "State of Generative Media, Vol. 2 — report site",
+  "creator": "fal",
+  "date": "2026-10-21",
+  "url": "https://x.com/fal/status/2102461868711247876",
+  "img": "img/fal-report.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Kitten stop-motion animation",
+  "creator": "Vanessa Stockard & Jenni Pasanen",
+  "date": "2026-10-21",
+  "url": "https://x.com/cheerforart/status/1798139113453035884",
+  "img": "img/cheerforart-kitten.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Kimi film — archival objects & index tabs",
+  "creator": "Kimi (Moonshot AI)",
+  "date": "2026-10-21",
+  "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
+  "img": "img/kimi.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Memory vessel — soft, nostalgic object",
+  "creator": "Echo Zhou",
+  "date": "2026-10-21",
+  "url": "https://x.com/_echozhou/status/2107559317318803687",
+  "img": "img/echozhou-memory-vessel.jpg",
+  "type": "Illustration"
+ },
+ {
+  "title": "Alan Wake II — case board",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/alan-wake-ii/",
+  "img": "img/iig-alan-wake-ii-case-board.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Control Resonant — ability select",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control-resonant/",
+  "img": "img/iig-control-resonant-ability-select.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Control — correspondence reader",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control/",
+  "img": "img/iig-control-correspondence.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Carlo Nason glass lamps",
+  "creator": "Carlo Nason (via Interior Hub)",
+  "date": "2026-10-21",
+  "url": "https://x.com/INTERIORBYHUT/status/2110370078289981455",
+  "img": "img/hut-nason.jpg",
+  "type": "Device"
+ },
+ {
+  "title": "Glowing pendant light in a dim interior",
+  "creator": "via @manwon_man",
+  "date": "2026-10-21",
+  "url": "https://x.com/manwon_man/status/2105480360637464788",
+  "img": "img/manwon-lamp.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Butterfly web piece — shown at 39 Great Jones St",
+  "creator": "Chia (@nonperformant)",
+  "date": "2026-10-21",
+  "url": "https://x.com/nonperformant/status/2103871168881344999",
+  "img": "img/chia.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Flat-lay compositions — pens & coloured squares",
+  "creator": "@mangoddango",
+  "date": "2026-10-21",
+  "url": "https://x.com/mangoddango/status/2103427289648189811",
+  "img": "img/mango.jpg",
+  "type": "Illustration"
+ },
+ {
+  "title": "Blue-washed architecture image",
+  "creator": "@mehavves",
+  "date": "2026-10-21",
+  "url": "https://x.com/mehavves/status/2101581525137432686",
+  "img": "img/mehavves.jpg",
+  "type": "Illustration"
+ },
+ {
+  "title": "Flowers appearing one by one in an empty vase",
+  "creator": "via @manwon_man",
+  "date": "2026-10-21",
+  "url": "https://x.com/manwon_man/status/2101213222565290451",
+  "img": "img/manwon-flowers.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Remedy art direction — in-game frames",
+  "creator": "Remedy Entertainment (via Ruancarlo Silva)",
+  "date": "2026-10-21",
+  "url": "https://x.com/ruancarlo97/status/2100958641067102551",
+  "img": "img/ruan-remedy.jpg",
+  "type": "Game UI"
+ },
+ {
+  "title": "Dancheong-inspired pattern set",
+  "creator": "via @gwamoleipstop",
+  "date": "2026-10-21",
+  "url": "https://x.com/gwamoleipstop/status/2100474759767331276",
+  "img": "img/gwam-dancheong.jpg",
+  "type": "Identity"
+ },
+ {
+  "title": "Runebender GPUI — mid-gray font editor theme",
+  "creator": "Eli Heuer",
+  "date": "2026-10-21",
+  "url": "https://x.com/eliheuer/status/2096679043303416162",
+  "img": "img/eli-runebender.jpg",
+  "type": "Interface"
+ },
+ {
+  "title": "Artemis, Athena & Persephone — vase-painting illustration",
+  "creator": "Roa2112",
+  "date": "2026-10-21",
+  "url": "https://x.com/Roa21123/status/2093692608900161745",
+  "img": "img/roa.jpg",
+  "type": "Illustration",
+  "note": {
+   "tags": [
+    "Illustration",
+    "Greek vase painting",
+    "Black-figure",
+    "Myth",
+    "Historical style",
+    "Ornament",
+    "Digital revival"
+   ],
+   "hook": "digital illustration drawn in an ancient vase-painting style",
+   "contrast": "an ancient visual language made with modern tools",
+   "handwritten": "reimagining digital illustration with ancient historical style"
+  }
+ },
+ {
+  "title": "Travel tile designs as a graphic source",
+  "creator": "via @gwamoleipstop",
+  "date": "2026-10-21",
+  "url": "https://x.com/gwamoleipstop/status/2086294816426750431",
+  "img": "img/gwam-tiles.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Cultural pattern",
+    "Vernacular design",
+    "Tile motifs",
+    "Historical reference",
+    "Print",
+    "Ornament",
+    "Found graphics"
+   ],
+   "hook": "real-world tiles turned into a graphic language",
+   "contrast": "historical craft brought into modern print",
+   "handwritten": "taking inspo from real world, cultural and historical references and putting them into print"
+  }
+ },
+ {
+  "title": "artwork.01–10 — clouded CD case",
+  "creator": "Hiro Ichikawa (市川央)",
+  "date": "2026-10-21",
+  "url": "https://x.com/hiro000509/status/2086422239889760720",
+  "img": "img/hiro.jpg",
+  "type": "Packaging",
+  "note": {
+   "tags": [
+    "Series design",
+    "Ephemeral",
+    "Atmospheric",
+    "Colour palette",
+    "Pattern",
+    "Cohesive system",
+    "Physical media",
+    "Soft gradient"
+   ],
+   "hook": "ten variations that still read as one set",
+   "contrast": "different palettes and patterns held together by one mood",
+   "handwritten": "different palettes and patterns, same ephemeral feel, cohesive as a set"
+  }
+ },
+ {
+  "title": "Pink tear-through print animation",
+  "creator": "@annaxmalina",
+  "date": "2026-10-21",
+  "url": "https://x.com/annaxmalina/status/2075626855562924429",
+  "img": "img/anna.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Print animation",
+    "Materiality",
+    "Riso-like texture",
+    "Pink",
+    "Stop-motion",
+    "Tactile motion",
+    "Analogue grain",
+    "Paper"
+   ],
+   "hook": "printed frames animated, so each one carries its own texture",
+   "contrast": "flat print colour that moves like it's alive",
+   "handwritten": "print animation makes the colour, movement and texture unique, like the materiality of things"
+  }
+ },
+ {
+  "title": "Death Stranding — cargo management screen",
+  "creator": "Kojima Productions",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/death-stranding/",
+  "img": "img/death-stranding-cargo.png",
+  "type": "Game UI",
+  "note": {
+   "tags": [
+    "Game UI",
+    "HUD",
+    "3D perspective",
+    "Parallax",
+    "Immersive interaction",
+    "Diegetic",
+    "Sci-fi interface",
+    "Kojima Productions"
+   ],
+   "hook": "a cargo screen with real depth, tilted and layered in 3D",
+   "contrast": "flat HUD data on a spatial, parallax plane",
+   "handwritten": "love the 3d perspective and parallax, so immersive"
+  }
+ },
+ {
+  "title": "TP–7 field recorder",
+  "creator": "teenage engineering",
+  "date": "2026-10-21",
+  "url": "https://teenage.engineering/products/tp-7",
+  "img": "img/tp7.webp",
+  "type": "Device",
+  "note": {
+   "tags": [
+    "Industrial design",
+    "Retro-futurist",
+    "Grid system",
+    "Playful tech",
+    "Braun lineage",
+    "Dieter Rams",
+    "Machined aluminium",
+    "Minimal controls"
+   ],
+   "hook": "a graphic-design grid turned into an object, in the Braun tradition",
+   "contrast": "strict precision vs a sense of fun",
+   "handwritten": "makes tech products fun. grid system from graphic design applied to a product"
+  }
+ },
+ {
+  "title": "Pond — early preview",
+  "creator": "Butterfly (@bflycomputer)",
+  "date": "2026-10-21",
+  "url": "https://x.com/bflycomputer/status/2105695834511982836",
+  "img": "img/bfly-pond.jpg",
+  "type": "Interface",
+  "note": {
+   "tags": [
+    "OS design",
+    "Block layout",
+    "Colour palette",
+    "Motion",
+    "Bento grid",
+    "Soft UI",
+    "Playful computing"
+   ],
+   "hook": "a whole OS built from colourful blocks",
+   "contrast": "calm blocks vs lively motion",
+   "handwritten": "beautiful os, block design with a lovely palette, lively motion"
+  }
+ },
+ {
+  "title": "Play_Music_Theory — drawings that play as music",
+  "creator": "Play_Music_Theory",
+  "date": "2026-10-21",
+  "url": "https://x.com/playmusictheory/status/2099610933731737810",
+  "img": "img/pmt.jpg",
+  "type": "Interface",
+  "note": {
+   "tags": [
+    "Drawing to sound",
+    "Generative",
+    "Sound design",
+    "Creative tool",
+    "Visual music",
+    "Playful instrument",
+    "Hand-drawn interface"
+   ],
+   "hook": "a drawing that plays back as music",
+   "contrast": "loose hand-drawn marks vs precise sound",
+   "handwritten": "one of my favourite things this year, drawing to music. visual and sound design both nice"
+  }
+ },
+ {
+  "title": "Otto Künzli — Ambassador of Jewelry certificate",
+  "creator": "kimera (Michael Clasen & Johannes Pejas)",
+  "date": "2026-10-22",
+  "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
+  "img": "img/1-kimera-kuenzli-letterpress-cliche.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Tactile",
+    "Letterpress",
+    "Swiss grid",
+    "Typography",
+    "International Style",
+    "Object as print",
+    "Metal type"
+   ],
+   "hook": "the printing plate itself is the award",
+   "contrast": "heavy metal object vs strict, light grid",
+   "handwritten": "physical, tactile material + swiss grid"
+  }
+ },
+ {
+  "title": "TUNIC — in-game instruction manual",
+  "creator": "Andrew Shouldice / Finji",
+  "date": "2026-10-22",
+  "url": "https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/",
+  "img": "img/3-tunic-manual-cathedral.png",
+  "type": "Game UI",
+  "note": {
+   "tags": [
+    "Print texture",
+    "Game UI",
+    "Graphic design",
+    "Diegetic",
+    "Watercolour",
+    "Hand-drawn",
+    "Retro game manual",
+    "Invented script"
+   ],
+   "hook": "a real-feeling printed manual living inside the game",
+   "contrast": "physical print texture in a digital world",
+   "handwritten": "lovely realistic print texture, great graphic design in game ui"
+  }
+ },
+ {
+  "title": "Blue Stairwell Print",
+  "creator": "Wunder",
+  "date": "2026-10-22",
+  "url": "https://x.com/WunderJp/status/2113221469811749084",
+  "img": "img/wunder.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Colour",
+    "Texture",
+    "Light",
+    "Liminal",
+    "Monochrome blue",
+    "Grain",
+    "Quiet architecture"
+   ],
+   "hook": "light that makes the stairwell feel in-between",
+   "handwritten": "beautiful colour and texture, the light feels liminal"
+  }
+ },
+ {
+  "title": "Organic Futurism of Ross Lovegrove",
+  "creator": "Ross Lovegrove (via @luusssso)",
+  "date": "2026-10-22",
+  "url": "https://x.com/luusssso/status/2113001924509462563",
+  "img": "img/lovegrove.jpg",
+  "type": "Device",
+  "note": {
+   "tags": [
+    "Architecture",
+    "Organic geometry",
+    "Photography",
+    "Light",
+    "Organic",
+    "Retro-futurism",
+    "Liminal",
+    "Biomorphic",
+    "Parametric"
+   ],
+   "hook": "flowing geometry, shot with care",
+   "contrast": "organic curves vs precise structure",
+   "handwritten": "beautiful geometry, and the colouring and lighting are both so good"
+  }
+ },
+ {
+  "title": "Mercedes-Benz Museum Elevator Pods",
+  "creator": "via @SciFiArchives",
+  "date": "2026-10-22",
+  "url": "https://x.com/SciFiArchives/status/2112914553545830777",
+  "img": "img/mercedes-elevator.jpg",
+  "type": "Device",
+  "note": {
+   "tags": [
+    "Retro-futurist",
+    "Industrial",
+    "Glass + Metal",
+    "Cinematic",
+    "Space-age",
+    "Brutalist backdrop",
+    "Tinted glass",
+    "Sci-fi set design"
+   ],
+   "hook": "tinted glass against cold metal",
+   "contrast": "small smooth pod vs huge raw concrete wall",
+   "handwritten": "love the glass colour with the metal, and the pod against that huge concrete wall. so cinematic"
+  }
+ },
+ {
+  "title": "Canvas-and-Document Editor",
+  "creator": "Yaro Svyatykh",
+  "date": "2026-10-22",
+  "url": "https://x.com/svyatykh/status/2112908234805940646",
+  "img": "img/svyatykh.jpg",
+  "type": "Interface",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Direct manipulation",
+    "Canvas UI",
+    "Motion",
+    "Spatial UI",
+    "Tactile software",
+    "Gesture-led"
+   ],
+   "hook": "the select-and-bundle gesture",
+   "handwritten": "cool interactions, especially the select and bundle"
+  }
+ },
+ {
+  "title": "Shadows of Unknown MV Typography",
+  "creator": "Vermii",
+  "date": "2026-10-22",
+  "url": "https://x.com/vermillionamvs/status/2112783968357781758",
+  "img": "img/vermii.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Kinetic type",
+    "Motion",
+    "Music video",
+    "Expressive typography",
+    "Rhythm-led",
+    "Title design"
+   ],
+   "hook": "type that performs through movement",
+   "handwritten": "great typographic expression with motion"
+  }
+ },
+ {
+  "title": "Slit Rail System",
+  "creator": "Jade Liou for Folktory",
+  "date": "2026-10-23",
+  "url": "https://fontsinuse.com/uses/80448/folktory-slit-rail-system",
+  "img": "img/1-folktory-slit-rail-system.png",
+  "type": "Poster",
+  "note": {
+   "tags": [
+    "Faded print",
+    "Instruction manual",
+    "Technical illustration",
+    "Spec sheet",
+    "Type placement",
+    "Exhibition poster",
+    "Industrial design",
+    "Specimen photography"
+   ],
+   "hook": "a furniture poster that reads like an assembly manual",
+   "contrast": "worn, faded print against precise technical drawing",
+   "handwritten": "faded print + manual-style illos, love how the type moves around"
+  }
+ },
+ {
+  "title": "DJDB, the Daejang Dakbal archive",
+  "creator": "Jihoon Kang",
+  "date": "2026-10-23",
+  "url": "https://djdb.kr/",
+  "img": "img/2-djdb-daejang-dakbal-archive.jpg",
+  "type": "Web",
+  "note": {
+   "tags": [
+    "Web archive",
+    "Timeline",
+    "Interaction design",
+    "Mono type",
+    "Restricted palette",
+    "Red accent",
+    "Personal archive",
+    "Playful details"
+   ],
+   "hook": "a small restaurant's whole life turned into a timeline you can play with",
+   "contrast": "a serious archive format, with a goofy chicken-feet interaction",
+   "handwritten": "love the timeline page, cool interactions all over, esp the chicken feet"
+  }
+ },
+ {
+  "title": "SIGNALIS inventory",
+  "creator": "rose-engine",
+  "date": "2026-10-23",
+  "url": "https://store.steampowered.com/app/1262350/SIGNALIS/",
+  "img": "img/3-signalis-inventory.jpg",
+  "type": "Game UI",
+  "note": {
+   "tags": [
+    "Game UI",
+    "Glitch",
+    "Error aesthetic",
+    "Space",
+    "Retro sci-fi",
+    "CRT",
+    "Diegetic interface",
+    "Red on black",
+    "Pixel art"
+   ],
+   "hook": "an inventory that looks like a broken screen from a ship out in deep space",
+   "contrast": "a beautiful, soft art style against harsh, glitchy screens",
+   "handwritten": "beautiful art style, love the glitchy error look + the space vibe"
+  }
+ }
 ]
