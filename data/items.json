@@ -285,7 +285,21 @@
     "date": "2026-10-21",
     "url": "https://x.com/gwamoleipstop/status/2086294816426750431",
     "img": "img/gwam-tiles.jpg",
-    "type": "Motion"
+    "type": "Motion",
+    "note": {
+      "tags": [
+        "Cultural pattern",
+        "Vernacular design",
+        "Tile motifs",
+        "Historical reference",
+        "Print",
+        "Ornament",
+        "Found graphics"
+      ],
+      "hook": "real-world tiles turned into a graphic language",
+      "contrast": "historical craft brought into modern print",
+      "handwritten": "taking inspo from real world, cultural and historical references and putting them into print"
+    }
   },
   {
     "title": "artwork.01–10 — clouded CD case",
