@@ -107,7 +107,7 @@
     "date": "2026-10-20",
     "url": "https://muiboard.com/products/mui-board-gen-2",
     "img": "img/05-mui-board-gen2-wood-display.jpg",
-    "type": "Device"
+    "type": "Physical"
   },
   {
     "title": "Fuego Camina Conmigo",
@@ -235,7 +235,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/INTERIORBYHUT/status/2110370078289981455",
     "img": "img/hut-nason.jpg",
-    "type": "Device"
+    "type": "Physical"
   },
   {
     "title": "Glowing pendant light in a dim interior",
@@ -420,7 +420,7 @@
     "date": "2026-10-21",
     "url": "https://teenage.engineering/products/tp-7",
     "img": "img/tp7.webp",
-    "type": "Device",
+    "type": "Physical",
     "note": {
       "tags": [
         "Industrial design",
@@ -553,7 +553,7 @@
     "date": "2026-10-22",
     "url": "https://x.com/luusssso/status/2113001924509462563",
     "img": "img/lovegrove.jpg",
-    "type": "Device",
+    "type": "Physical",
     "note": {
       "tags": [
         "Architecture",
@@ -577,7 +577,7 @@
     "date": "2026-10-22",
     "url": "https://x.com/SciFiArchives/status/2112914553545830777",
     "img": "img/mercedes-elevator.jpg",
-    "type": "Device",
+    "type": "Physical",
     "note": {
       "tags": [
         "Retro-futurist",
