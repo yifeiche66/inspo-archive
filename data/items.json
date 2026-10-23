@@ -277,7 +277,21 @@
     "date": "2026-10-21",
     "url": "https://x.com/Roa21123/status/2093692608900161745",
     "img": "img/roa.jpg",
-    "type": "Illustration"
+    "type": "Illustration",
+    "note": {
+      "tags": [
+        "Illustration",
+        "Greek vase painting",
+        "Black-figure",
+        "Myth",
+        "Historical style",
+        "Ornament",
+        "Digital revival"
+      ],
+      "hook": "digital illustration drawn in an ancient vase-painting style",
+      "contrast": "an ancient visual language made with modern tools",
+      "handwritten": "reimagining digital illustration with ancient historical style"
+    }
   },
   {
     "title": "Travel tile designs as a graphic source",
