@@ -139,7 +139,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/slavakornilov/status/2111937150455316607",
     "img": "img/slavakornilov-music-bild.jpg",
-    "type": "Interface"
+    "type": "Interaction"
   },
   {
     "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
@@ -171,7 +171,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/chiquwch/status/2107275884961124515",
     "img": "img/chiquwch-website.jpg",
-    "type": "Interface"
+    "type": "Interaction"
   },
   {
     "title": "State of Generative Media, Vol. 2 — report site",
@@ -179,7 +179,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/fal/status/2102461868711247876",
     "img": "img/fal-report.jpg",
-    "type": "Interface"
+    "type": "Interaction"
   },
   {
     "title": "Kitten stop-motion animation",
@@ -251,7 +251,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/nonperformant/status/2103871168881344999",
     "img": "img/chia.jpg",
-    "type": "Interface"
+    "type": "Interaction"
   },
   {
     "title": "Flat-lay compositions — pens & coloured squares",
@@ -299,7 +299,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/eliheuer/status/2096679043303416162",
     "img": "img/eli-runebender.jpg",
-    "type": "Interface"
+    "type": "Interaction"
   },
   {
     "title": "Artemis, Athena & Persephone — vase-painting illustration",
@@ -443,7 +443,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/bflycomputer/status/2105695834511982836",
     "img": "img/bfly-pond.jpg",
-    "type": "Interface",
+    "type": "Interaction",
     "note": {
       "tags": [
         "OS design",
@@ -465,7 +465,7 @@
     "date": "2026-10-21",
     "url": "https://x.com/playmusictheory/status/2099610933731737810",
     "img": "img/pmt.jpg",
-    "type": "Interface",
+    "type": "Interaction",
     "note": {
       "tags": [
         "Drawing to sound",
@@ -600,7 +600,7 @@
     "date": "2026-10-22",
     "url": "https://x.com/svyatykh/status/2112908234805940646",
     "img": "img/svyatykh.jpg",
-    "type": "Interface",
+    "type": "Interaction",
     "note": {
       "tags": [
         "Interaction",
@@ -664,7 +664,7 @@
     "date": "2026-10-23",
     "url": "https://djdb.kr/",
     "img": "img/2-djdb-daejang-dakbal-archive.jpg",
-    "type": "Web",
+    "type": "Interaction",
     "note": {
       "tags": [
         "Web archive",
