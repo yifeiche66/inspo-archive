@@ -301,7 +301,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/annaxmalina/status/2075626855562924429",
     "img": "img/anna.jpg",
-    "type": "Motion"
+    "type": "Motion",
+    "note": {
+      "tags": [
+        "Print animation",
+        "Materiality",
+        "Riso-like texture",
+        "Pink",
+        "Stop-motion",
+        "Tactile motion",
+        "Analogue grain",
+        "Paper"
+      ],
+      "hook": "printed frames animated, so each one carries its own texture",
+      "contrast": "flat print colour that moves like it's alive",
+      "handwritten": "print animation, which makes the color, movements and texture unique, like materiality of things"
+    }
   },
   {
     "title": "Death Stranding — cargo management screen",
@@ -309,7 +324,22 @@
     "date": "2026-10-21",
     "url": "https://interfaceingame.com/games/death-stranding/",
     "img": "img/death-stranding-cargo.png",
-    "type": "Game UI"
+    "type": "Game UI",
+    "note": {
+      "tags": [
+        "Game UI",
+        "HUD",
+        "3D perspective",
+        "Parallax",
+        "Immersive interaction",
+        "Diegetic",
+        "Sci-fi interface",
+        "Kojima Productions"
+      ],
+      "hook": "a cargo screen with real depth, tilted and layered in 3D",
+      "contrast": "flat HUD data on a spatial, parallax plane",
+      "handwritten": "like the 3d perspective and parallax, game ui, hud elements, immersive interactions"
+    }
   },
   {
     "title": "TP–7 field recorder",
