@@ -48,15 +48,16 @@ header h1{order:1;font-size:clamp(56px,17vw,120px)}
 .filters{font-size:15px;padding:0 16px;gap:18px}
 .filters button{min-height:44px;display:flex;align-items:center}
 }
-.note{position:absolute;z-index:20;top:12px;left:calc(100% - 24px);width:270px;background:#f6f6f5;color:#222;padding:16px 16px 18px 30px;font:14px/1.35 "DM Mono",monospace;box-shadow:0 2px 4px #0001,0 18px 36px -16px #0004;opacity:0;visibility:hidden;transform:translateY(6px) rotate(.6deg);transition:opacity .25s,transform .25s,visibility .25s;pointer-events:none;
+.note{position:absolute;z-index:20;top:12px;left:calc(100% - 24px);width:270px;background:#f6f6f5;color:#222;padding:16px 24px 18px 34px;font:14px/1.35 "DM Mono",monospace;box-shadow:0 2px 4px #0001,0 18px 36px -16px #0004;opacity:0;visibility:hidden;transform:translateY(6px) rotate(.6deg);transition:opacity .25s,transform .25s,visibility .25s;pointer-events:none;
 background-image:radial-gradient(circle at 12px 50%,#eaeaea 5px,transparent 5.5px);background-size:24px 26px;background-repeat:repeat-y;border-left:1px dashed #d9d9d9}
 .card:hover .note,.card.open .note{opacity:1;visibility:visible;transform:rotate(.6deg)}
 .note .hd{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid #222;padding-bottom:8px;margin-bottom:4px;gap:8px}
 .note .hd b{font-weight:400}.note .no{border:1px solid #222;padding:2px 6px;font:14px "DM Mono",monospace;white-space:nowrap}
 .note .f{padding:6px 0 7px;background:linear-gradient(90deg,#c8c8c8 50%,transparent 50%) left bottom/8px 1px repeat-x}.note .f i{display:block;font-style:normal;font-size:14px;color:#8a8a8a;letter-spacing:.08em;text-transform:uppercase}
 .note .f span{font:14px/1.35 "DM Mono",monospace}
-.note .hand{font:20px/1.55 "Cedarville Cursive",cursive;color:#3a3a3a;opacity:.8;margin-top:12px;margin-bottom:18px}
-.note .cn{position:absolute;right:8px;bottom:6px;border:1px solid #d9d9d9;color:#999;font:14px "DM Mono",monospace;padding:0 4px}
+.note .hand{font:20px/1.15 "Cedarville Cursive",cursive;color:#3a3a3a;opacity:.8;transform:rotate(2deg);transform-origin:left top;margin-top:12px;margin-bottom:18px}
+.note .cn{position:absolute;right:20px;bottom:6px;border:1px solid #d9d9d9;color:#999;font:14px "DM Mono",monospace;padding:0 4px}
+.note::before{content:"";position:absolute;top:0;bottom:0;left:24px;right:14px;border-left:1px solid #222;border-right:1px solid #222;pointer-events:none}
 .card.flip .note{left:auto;right:calc(100% - 24px)}
 @media(max-width:760px){.note{left:8px!important;right:8px!important;top:auto;bottom:8px;width:auto}}
 </style><link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=DM+Mono:wght@400&display=swap" rel="stylesheet"></head><body>
