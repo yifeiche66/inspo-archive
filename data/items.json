@@ -131,7 +131,22 @@
     "date": "2026-10-21",
     "url": "https://store.steampowered.com/app/906100/Observation/",
     "img": "img/03-observation-clamp-detachment.jpg",
-    "type": "Game"
+    "type": "Game",
+    "note": {
+      "tags": [
+        "Game",
+        "Diegetic UI",
+        "Station AI",
+        "Perspective shift",
+        "Camera feeds",
+        "Sci-fi interface",
+        "Information stream",
+        "Human + AI"
+      ],
+      "hook": "a game played from the ai's point of view, like HAL running the station",
+      "contrast": "the ai's data streams against the human spaces it shares, and the places humans can't reach",
+      "handwritten": "HAL's perspective lol, such an interesting perspective shift. inspiring for thinking about what kind of information stream and reaction an ai can have in a shared space with humans, and beyond what humans can reach"
+    }
   },
   {
     "title": "Music Bild — music player concept",
