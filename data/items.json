@@ -258,7 +258,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/manwon_man/status/2105480360637464788",
     "img": "img/manwon-lamp.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Lighting",
+        "Pendant lamp",
+        "Natural patterns",
+        "Rhythm",
+        "Ambient",
+        "Dim interior",
+        "Organic form"
+      ],
+      "hook": "a lamp that brings natural patterns into an artificial room",
+      "contrast": "soft organic rhythm against a dim, built interior",
+      "handwritten": "creative use of natural patterns and rhythms for an artificial environment"
+    }
   },
   {
     "title": "Butterfly web piece — shown at 39 Great Jones St",
