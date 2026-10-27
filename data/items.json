@@ -147,7 +147,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/julianleiss/status/2110868325052149925",
     "img": "img/julianleiss-ajedrez.jpg",
-    "type": "Motion"
+    "type": "Motion",
+    "note": {
+      "tags": [
+        "Motion",
+        "Editorial film",
+        "AI-assisted workflow",
+        "Stop motion",
+        "Paper quality",
+        "Borges",
+        "Literary adaptation",
+        "Art direction"
+      ],
+      "hook": "a poem turned into fifteen cuts, with an ai-assisted workflow behind it",
+      "contrast": "handmade paper and stop-motion feel against a generated pipeline",
+      "handwritten": "impressive use of an ai-assisted workflow in motion design, and the art direction itself is very good too, the paper quality and stop motion quality"
+    }
   },
   {
     "title": "House for Daydreams — tracing-paper texture poster",
