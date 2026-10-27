@@ -107,7 +107,22 @@
     "date": "2026-10-20",
     "url": "https://muiboard.com/products/mui-board-gen-2",
     "img": "img/05-mui-board-gen2-wood-display.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Smart home",
+        "Tactile control",
+        "Wood",
+        "Calm technology",
+        "Screenless",
+        "Furniture",
+        "Ambient interface"
+      ],
+      "hook": "a smart home control that's a piece of furniture instead of a screen",
+      "contrast": "digital control against a warm, tactile wooden surface",
+      "handwritten": "tactile control for smart home, an alternative to a screen and an aesthetic piece of furniture"
+    }
   },
   {
     "title": "Fuego Camina Conmigo",
