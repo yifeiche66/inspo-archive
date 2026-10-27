@@ -155,7 +155,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
     "img": "img/nono-tracing-paper-poster.jpg",
-    "type": "Print"
+    "type": "Print",
+    "note": {
+      "tags": [
+        "Print",
+        "Poster",
+        "Tracing paper",
+        "Translucent layers",
+        "Mixed-tool workflow",
+        "ChatGPT image",
+        "AI-assisted",
+        "Dreamy"
+      ],
+      "hook": "a tracing-paper poster made through a mixed-tool ai image process",
+      "contrast": "delicate paper texture against a generated, digital workflow",
+      "handwritten": "cool use case of chatgpt image, and a mixed-tool ai visual generation process"
+    }
   },
   {
     "title": "Typography book, revisited with flip interactions",
