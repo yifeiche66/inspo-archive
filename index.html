@@ -79,14 +79,14 @@ html{color-scheme:light}body{transition:background-color .3s,color .3s}
 .thm button{all:unset;cursor:pointer;width:22px;height:22px;display:flex;align-items:center;justify-content:center}
 .thm button i{display:block;width:12px;height:12px;box-sizing:border-box;border:1px solid var(--sw);transition:border-color .25s,box-shadow .25s}
 .thm button:hover i{border-color:var(--sw-on)}
-.thm button[aria-pressed=true] i{border-color:var(--sw-on);box-shadow:0 0 0 2px var(--bg),0 0 0 3px var(--sw)}
+.thm button[aria-pressed=true] i{border-color:var(--sw-on)}
 .thm button:focus-visible i{outline:1px solid var(--sw-on);outline-offset:3px}
 .thm .l i{background:#fff}.thm .d i{background:#111}.thm .s i{background:#8fb9e6}
 :root{--sw:#c4c4c4;--sw-on:#8a8a8a}
 @media(max-width:700px){.mrow .thm{position:static;order:2;margin-left:4px}.thm button{width:30px;height:44px}.mrow:has(.srch.open) .thm{display:none}}
 html[data-theme=dark]{color-scheme:dark;--bg:#181818;--ink:#e6e6e3;--mute:#8a8a84;--rule:#e6e6e340;--sw:#4a4a4a;--sw-on:#8a8a8a}
-html[data-theme=dark] h1{color:#222!important}
-html[data-theme=dark] .credit,html[data-theme=dark] .filters button,html[data-theme=dark] .srch,html[data-theme=dark] .srch input::placeholder{color:#424242!important}
+html[data-theme=dark] h1{color:#2a2a2a!important}
+html[data-theme=dark] .credit,html[data-theme=dark] .filters button,html[data-theme=dark] .srch,html[data-theme=dark] .srch input::placeholder{color:#5c5c5c!important}
 html[data-theme=dark] .filters button:hover,html[data-theme=dark] .filters button.on,html[data-theme=dark] .srch:hover,html[data-theme=dark] .srch.on,html[data-theme=dark] .srch.open{color:#fff!important}
 html[data-theme=dark] .srch input{color:#fff!important;caret-color:#fff!important}
 html[data-theme=dark] .ghost{color:#ffffff08!important}
@@ -106,7 +106,6 @@ html[data-theme=sky] .ghost{color:#ffffff26!important}
 html[data-theme=sky] .index a{border-bottom-color:#1d2c3c24!important}html[data-theme=sky] .index a:hover{color:#3d5a78!important}
 html[data-theme=sky] #none{color:#4f6378!important}
 html[data-theme=sky] .nsh i{background:rgba(20,40,70,.16)!important}
-html[data-theme=sky] .thm button[aria-pressed=true] i{box-shadow:0 0 0 2px #ffffff00,0 0 0 3px var(--sw)}
 </style><link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=DM+Mono:wght@400&display=swap" rel="stylesheet"></head><body>
 <header><nav class="filters" id="filters"></nav><div class="credit">( Curated by Yifei )</div><div class="srch" id="srch" role="search">[&nbsp;<span class="lbl">Search<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="6.8" cy="6.8" r="4.8"/><path d="M10.4 10.4 14.5 14.5"/></svg></span><input id="q" type="text" placeholder="keyword" aria-label="Search specimens" autocomplete="off"><span class="br2"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="6.8" cy="6.8" r="4.8"/><path d="M10.4 10.4 14.5 14.5"/></svg></span>&nbsp;]<span class="ul" id="ul"></span></div><div class="thm" id="thm" role="group" aria-label="Theme"><button class="l" data-t="light" aria-label="Light"><i></i></button><button class="d" data-t="dark" aria-label="Dark"><i></i></button><button class="s" data-t="sky" aria-label="Sky"><i></i></button></div><h1>Specimens</h1>
 </header>
