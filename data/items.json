@@ -195,7 +195,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
     "img": "img/kimi.jpg",
-    "type": "Motion"
+    "type": "Motion",
+    "note": {
+      "tags": [
+        "Motion",
+        "Film",
+        "Archival objects",
+        "Index tabs",
+        "Ephemera",
+        "Science + aesthetics",
+        "Catalogue",
+        "Specimen"
+      ],
+      "hook": "a film that treats its objects like items in an archive",
+      "contrast": "scientific order against aesthetic play",
+      "handwritten": "love the archival quality of it, the intersection of science and aesthetics"
+    }
   },
   {
     "title": "Memory vessel — soft, nostalgic object",
