@@ -893,7 +893,22 @@
   "date": "2026-10-28",
   "url": "https://www.tack-tile.com/",
   "img": "img/4-tack-tile-archive.png",
-  "type": "Interaction"
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Archive",
+    "Paper ephemera",
+    "Tactility",
+    "Lenticular",
+    "Physical to digital",
+    "Monospace",
+    "1780–1980",
+    "Human-made"
+   ],
+   "hook": "a growing archive of 6,700+ scanned paper things made between 1780 and 1980, shown in monospace with a dotted wordmark",
+   "contrast": "flat scans on a screen, but the page behaves like a lenticular card",
+   "handwritten": "the tactility is right there in the name, and the lenticular card effect turns a physical object's trick into a 2d digital one"
+  }
  },
  {
   "title": "Gathering softly",
@@ -901,7 +916,22 @@
   "date": "2026-10-29",
   "url": "https://fontsinuse.com/uses/80633/gathering-softly-by-anna-lena-oehm",
   "img": "img/1-gathering-softly-oehm.png",
-  "type": "Print"
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Catalogue",
+    "Web archive",
+    "Code-generated",
+    "Monospace",
+    "Flowing script",
+    "Colour",
+    "Thin paper"
+   ],
+   "hook": "a web archive of online collections turned into a code-generated printed catalog on thin 60 g paper",
+   "contrast": "flowing DaVinci lettering against monospace OCR-X indexes",
+   "handwritten": "beautiful colors, and the flowing script sitting against the monospace index makes a web archive feel hand-bound"
+  }
  },
  {
   "title": "Pentiment",
@@ -909,6 +939,21 @@
   "date": "2026-10-29",
   "url": "https://store.steampowered.com/app/1205520/Pentiment/",
   "img": "img/4-pentiment-manuscript.jpg",
-  "type": "Game"
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Illuminated manuscript",
+    "Medieval",
+    "Woodcut",
+    "Typography as character",
+    "Narrative design",
+    "Handwritten",
+    "Immersive"
+   ],
+   "hook": "a whole game built as a living illuminated manuscript, where each character's dialogue is set in a hand that fits their class and schooling",
+   "contrast": "a screen game that reads and behaves like an ink-and-parchment page",
+   "handwritten": "visual style, narrative and mechanics all in one, like breaking into the world of a medieval manuscript"
+  }
  }
 ]
