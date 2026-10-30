@@ -962,6 +962,21 @@
   "date": "2026-10-30",
   "url": "https://www.spacebetweenpeople.com/work/index",
   "img": "img/2-space-between-people-index.png",
-  "type": "Interaction"
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Web",
+    "Editorial",
+    "Architecture",
+    "Single colour",
+    "Index",
+    "Catalogue card",
+    "Typography"
+   ],
+   "hook": "the site for architect Hanna Noller's practice, all in one blue on white, with a work index that runs year, title and category along ruled lines",
+   "contrast": "no highlight state in the nav, since it re-sets its own words so the current section slides to the centre",
+   "handwritten": "extremely clean"
+  }
  }
 ]
