@@ -986,5 +986,21 @@
   "url": "https://www.dnpfcp.jp/gallery/ggg/jp/00000861",
   "img": "img/1-tanaka-archive-achieve-washi-boxes.jpg",
   "type": "Physical"
+ },
+ {
+  "title": "A Book for Making Books",
+  "creator": "Carolina Incerti",
+  "date": "2026-11-02",
+  "url": "https://www.itsnicethat.com/articles/carolina-incerti-a-book-for-making-books-publication-project-201026",
+  "img": "img/2-book-for-making-books-tabs.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Blue Prince",
+  "creator": "Dogubomb",
+  "date": "2026-11-02",
+  "url": "https://store.steampowered.com/app/1569580/Blue_Prince/",
+  "img": "img/3-blue-prince-drafting.jpg",
+  "type": "Game"
  }
 ]
