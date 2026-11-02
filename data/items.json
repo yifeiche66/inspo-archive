@@ -1002,5 +1002,13 @@
   "url": "https://store.steampowered.com/app/1569580/Blue_Prince/",
   "img": "img/3-blue-prince-drafting.jpg",
   "type": "Game"
+ },
+ {
+  "title": "monome grid",
+  "creator": "monome (Brian Crabtree and Kelli Cain)",
+  "date": "2026-11-02",
+  "url": "https://monome.org/",
+  "img": "img/4-monome-grid-warm-light.jpg",
+  "type": "Physical"
  }
 ]
