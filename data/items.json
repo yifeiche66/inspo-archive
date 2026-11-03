@@ -231,7 +231,22 @@
   "date": "2026-10-21",
   "url": "https://x.com/chiquwch/status/2107275884961124515",
   "img": "img/chiquwch-website.jpg",
-  "type": "Interaction"
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Web",
+    "Portfolio",
+    "Concept",
+    "X-ray",
+    "Security scan",
+    "Cyan and magenta",
+    "Playful"
+   ],
+   "hook": "a portfolio framed as a bag going through an x-ray scanner, with the work and her objects glowing inside it",
+   "contrast": "a clinical security scan in cyan and magenta against a very personal pile of everyday things",
+   "handwritten": "the airport scan makes a portfolio feel like something you get to look inside of, which is such a sharp way to frame it. chi you are awesome"
+  }
  },
  {
   "title": "State of Generative Media, Vol. 2 — report site",
