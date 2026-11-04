@@ -301,7 +301,22 @@
   "date": "2026-10-21",
   "url": "https://interfaceingame.com/games/alan-wake-ii/",
   "img": "img/iig-alan-wake-ii-case-board.jpg",
-  "type": "Game"
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Narrative",
+    "Music",
+    "Theatre",
+    "Film",
+    "Visual art",
+    "Horror",
+    "Immersive"
+   ],
+   "hook": "Remedy's survival-horror thriller, a game that folds narrative, music, theatre, film and visual art into one immersive world",
+   "contrast": "a single game that behaves like many art forms at once, and the case board is where you hold them together",
+   "handwritten": "my favorite game. a game can pull in narrative, music, theatre, film and visual art and make them immersive, and alan wake ii is the perfect concoction of all of it"
+  }
  },
  {
   "title": "Control Resonant — ability select",
