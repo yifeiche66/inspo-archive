@@ -1064,5 +1064,21 @@
   "url": "https://www.itsnicethat.com/articles/vrints-kolsteren-napoli-on-the-road-graphic-design-project-010926",
   "img": "img/4-notr-pizza-itself-box.jpg",
   "type": "Identity"
+ },
+ {
+  "title": "The Echidna Zine",
+  "creator": "Hyper Pension",
+  "date": "2026-11-09",
+  "url": "https://fontsinuse.com/uses/77082/the-echidna-zine",
+  "img": "img/2-echidna-zine-hyper-pension.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Meant to be",
+  "creator": "Tobie Tse",
+  "date": "2026-11-09",
+  "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026",
+  "img": "img/3-tobie-tse-meant-to-be.png",
+  "type": "Motion"
  }
 ]
