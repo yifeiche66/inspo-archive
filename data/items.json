@@ -1096,5 +1096,21 @@
   "url": "https://www.itsnicethat.com/features/isabel-and-helen-motion-sickness-art-spotlight-100926",
   "img": "img/5-isabel-helen-motion-sickness.jpg",
   "type": "Physical"
+ },
+ {
+  "title": "CD-ROM PLAYER 01",
+  "creator": "das_POD",
+  "date": "2026-11-09",
+  "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
+  "img": "img/3-daspod-cdrom-player-01.jpg",
+  "type": "Physical"
+ },
+ {
+  "title": "Eating the Whole Fish",
+  "creator": "BEAM (Annie Chen and Zoe Lee), design by Kayla Feng",
+  "date": "2026-11-09",
+  "url": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
+  "img": "img/4-eating-the-whole-fish-anatomy.jpg",
+  "type": "Print"
  }
 ]
