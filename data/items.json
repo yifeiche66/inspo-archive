@@ -371,7 +371,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/nonperformant/status/2103871168881344999",
     "img": "img/chia.jpg",
-    "type": "Interaction"
+    "type": "Interaction",
+    "note": {
+      "tags": [
+        "Interaction",
+        "Web art",
+        "Digital garden",
+        "Butterflies",
+        "Living system",
+        "Generative",
+        "Gallery",
+        "Organic"
+      ],
+      "hook": "a garden on the internet, where butterflies make a web page feel alive",
+      "contrast": "soft, living motion against the cold flatness of a browser",
+      "handwritten": "makes the digital alive"
+    }
   },
   {
     "title": "Flat-lay compositions — pens & coloured squares",
@@ -379,7 +394,22 @@
     "date": "2026-10-21",
     "url": "https://x.com/mangoddango/status/2103427289648189811",
     "img": "img/mango.jpg",
-    "type": "Illustration"
+    "type": "Illustration",
+    "note": {
+      "tags": [
+        "Illustration",
+        "Flat-lay",
+        "Geometric",
+        "Everyday objects",
+        "Lighting",
+        "Arrangement",
+        "Still life",
+        "Sarah Sze"
+      ],
+      "hook": "pens and coloured squares arranged into geometric compositions under great light",
+      "contrast": "mundane desk objects against careful, almost sculptural order",
+      "handwritten": "reminds me of sarah sze, but desk sized"
+    }
   },
   {
     "title": "Blue-washed architecture image",
@@ -1015,7 +1045,22 @@
     "date": "2026-11-02",
     "url": "https://www.dnpfcp.jp/gallery/ggg/jp/00000861",
     "img": "img/1-tanaka-archive-achieve-washi-boxes.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Exhibition",
+        "Washi",
+        "Archive boxes",
+        "Storage as display",
+        "Japanese craft",
+        "Index",
+        "Paper"
+      ],
+      "hook": "a body of work shown as washi archive boxes, so the storage becomes the exhibition",
+      "contrast": "soft handmade paper against the strict logic of filing",
+      "handwritten": "the boxes are the show"
+    }
   },
   {
     "title": "A Book for Making Books",
@@ -1023,7 +1068,22 @@
     "date": "2026-11-02",
     "url": "https://www.itsnicethat.com/articles/carolina-incerti-a-book-for-making-books-publication-project-201026",
     "img": "img/2-book-for-making-books-tabs.jpg",
-    "type": "Print"
+    "type": "Print",
+    "note": {
+      "tags": [
+        "Print",
+        "Publication",
+        "Tabs",
+        "Manual",
+        "Bookmaking",
+        "Index",
+        "Self-referential",
+        "Tactile"
+      ],
+      "hook": "a tabbed book whose subject is how to make books",
+      "contrast": "an instruction manual's structure against a crafty, personal object",
+      "handwritten": "a book about itself"
+    }
   },
   {
     "title": "Blue Prince",
@@ -1031,7 +1091,22 @@
     "date": "2026-11-02",
     "url": "https://store.steampowered.com/app/1569580/Blue_Prince/",
     "img": "img/3-blue-prince-drafting.jpg",
-    "type": "Game"
+    "type": "Game",
+    "note": {
+      "tags": [
+        "Game",
+        "Drafting",
+        "Floor plan",
+        "Blueprint",
+        "Puzzle",
+        "Room cards",
+        "Architecture",
+        "UI"
+      ],
+      "hook": "a mansion you build room by room by drafting floor-plan cards",
+      "contrast": "architect's drawing language against a mystery game",
+      "handwritten": "UI as a drafting table"
+    }
   },
   {
     "title": "monome grid",
@@ -1039,7 +1114,22 @@
     "date": "2026-11-02",
     "url": "https://monome.org/",
     "img": "img/4-monome-grid-warm-light.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Instrument",
+        "Screenless",
+        "Button grid",
+        "Warm light",
+        "Minimal",
+        "Modular",
+        "Interaction"
+      ],
+      "hook": "a screenless instrument that answers only with warm light on a grid of buttons",
+      "contrast": "bare hardware against the expressive music it makes",
+      "handwritten": "the light is the interface"
+    }
   },
   {
     "title": "Le fiabe sono vere… Storia popolare italiana",
@@ -1116,7 +1206,22 @@
     "date": "2026-11-09",
     "url": "https://fontsinuse.com/uses/77082/the-echidna-zine",
     "img": "img/2-echidna-zine-hyper-pension.jpg",
-    "type": "Print"
+    "type": "Print",
+    "note": {
+      "tags": [
+        "Print",
+        "Zine",
+        "Rubber stamp",
+        "Brush manuscript",
+        "Cyanotype",
+        "Parchment",
+        "Small edition",
+        "Mixed craft"
+      ],
+      "hook": "an edition of 30 where every page is a different craft, from stamp and brush to cyanotype and sheepskin",
+      "contrast": "ancient materials against a scrappy zine format",
+      "handwritten": "a collection of different craft"
+    }
   },
   {
     "title": "Meant to be",
@@ -1124,7 +1229,22 @@
     "date": "2026-11-09",
     "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026",
     "img": "img/3-tobie-tse-meant-to-be.png",
-    "type": "Motion"
+    "type": "Motion",
+    "note": {
+      "tags": [
+        "Motion",
+        "Crochet",
+        "Filet grid",
+        "Scanned textile",
+        "Zoetrope",
+        "Loop",
+        "Handmade",
+        "Pixel-like"
+      ],
+      "hook": "hand-crocheted filet grids scanned frame by frame into zoetrope-style loops",
+      "contrast": "slow handwork against a fast, pixel-like loop",
+      "handwritten": "pixels you can hold"
+    }
   },
   {
     "title": "V.H. Belvadi website (2026)",
@@ -1132,7 +1252,22 @@
     "date": "2026-11-09",
     "url": "https://fontsinuse.com/uses/79323/v-h-belvadi-website-2026",
     "img": "img/4-belvadi-website-index.jpg",
-    "type": "Interaction"
+    "type": "Interaction",
+    "note": {
+      "tags": [
+        "Interaction",
+        "Book-as-website",
+        "Dust jacket",
+        "Roman numerals",
+        "Numbered index",
+        "Editorial",
+        "Quiet",
+        "Serif"
+      ],
+      "hook": "a personal site built like a book, with dust-jacket leaves, a roman-numeral preface and posts as a numbered index",
+      "contrast": "book conventions against an endless scrolling web",
+      "handwritten": "a book as a site"
+    }
   },
   {
     "title": "Motion Sickness",
@@ -1140,7 +1275,22 @@
     "date": "2026-11-09",
     "url": "https://www.itsnicethat.com/features/isabel-and-helen-motion-sickness-art-spotlight-100926",
     "img": "img/5-isabel-helen-motion-sickness.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Maquettes",
+        "Motion tests",
+        "Studio shelves",
+        "Lo-fi",
+        "Kinetic",
+        "Process as work",
+        "Display"
+      ],
+      "hook": "shelves of lo-fi maquettes and motion tests shown as the finished work",
+      "contrast": "rough cardboard models against polished kinetic installations",
+      "handwritten": "the shelf is the portfolio"
+    }
   },
   {
     "title": "CD-ROM PLAYER 01",
@@ -1148,7 +1298,22 @@
     "date": "2026-11-09",
     "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
     "img": "img/3-daspod-cdrom-player-01.jpg",
-    "type": "Physical"
+    "type": "Physical",
+    "note": {
+      "tags": [
+        "Physical",
+        "Repurposed hardware",
+        "CD-ROM drive",
+        "Bent aluminium",
+        "Kit",
+        "Audio",
+        "Modular",
+        "Industrial"
+      ],
+      "hook": "a used computer CD-ROM drive housed in bent aluminium and turned into a kit CD player",
+      "contrast": "beige PC junk against crisp folded metal",
+      "handwritten": "e-waste made pretty and functional again"
+    }
   },
   {
     "title": "Eating the Whole Fish",
@@ -1156,6 +1321,21 @@
     "date": "2026-11-09",
     "url": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
     "img": "img/4-eating-the-whole-fish-anatomy.jpg",
-    "type": "Print"
+    "type": "Print",
+    "note": {
+      "tags": [
+        "Print",
+        "Cookbook",
+        "Specimen plates",
+        "Anatomical",
+        "Acid green",
+        "Scientific illustration",
+        "Food",
+        "Bold colour"
+      ],
+      "hook": "a cookbook laid out like natural-history plates, with fish anatomy on acid green",
+      "contrast": "museum-specimen calm against a loud, almost toxic green",
+      "handwritten": "cookbook disguised as a field guide"
+    }
   }
 ]
