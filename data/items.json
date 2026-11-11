@@ -1,1341 +1,1357 @@
 [
-  {
-    "title": "Japanese commercial art, giraffe print (1930)",
-    "creator": "via @DesignReviewed",
-    "date": "2026-10-14",
-    "url": "https://x.com/DesignReviewed",
-    "img": "img/4-designreviewed-1930-commercial-art.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Japanese commercial art",
-        "1930s",
-        "Showa-era print",
-        "Playful",
-        "Animal illustration",
-        "Graphic layout",
-        "Flat colour",
-        "Vintage advertising"
-      ],
-      "hook": "a giraffe that's goofy but sits in a really well-built layout",
-      "contrast": "a silly subject against a disciplined composition",
-      "handwritten": "it's just fun"
-    }
-  },
-  {
-    "title": "Olivetti Telescriventi advert",
-    "creator": "Walter Ballmer, 1964",
-    "date": "2026-10-15",
-    "url": "https://x.com/DesignReviewed/status/2110658827976847424",
-    "img": "img/03-ballmer-olivetti-telescriventi.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Olivetti",
-        "Mid-century advertising",
-        "2D + 3D",
-        "Editorial layout",
-        "Expressive",
-        "Print texture",
-        "Italian modernism",
-        "Corporate design"
-      ],
-      "hook": "an ad that's tidy like an editorial page but still loose and playful",
-      "contrast": "a quiet column of technical text against bending, dimensional stripes",
-      "handwritten": "editorial order, but the 3d objects loosen it up, like the retro print quality (because it is retro)"
-    }
-  },
-  {
-    "title": "Quiet Media — Inaugural Issue pocket",
-    "creator": "Charlotte Rubesa",
-    "date": "2026-10-16",
-    "url": "https://quietmedia.metalabel.com/inauguraledition",
-    "img": "img/01-quiet-media-pocket.jpg",
-    "type": "Packaging"
-  },
-  {
-    "title": "Internet Phone Book — Issue One",
-    "creator": "Elliott Cost & Kristoffer Tjalve",
-    "date": "2026-10-16",
-    "url": "https://internetphonebook.net/",
-    "img": "img/05-internet-phone-book.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Karakami woodblock papers",
-    "creator": "Kira Karacho, Kyoto",
-    "date": "2026-10-19",
-    "url": "https://kirakaracho.jp/en/production/",
-    "img": "img/kira-karacho-karakami-printing.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Dictionary of the Illegible",
-    "creator": "Laurenz Brunner / Source Type",
-    "date": "2026-10-19",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "img": "img/dictionary-of-the-illegible-cover.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Routine — the C.A.T. handheld HUD",
-    "creator": "Lunar Software",
-    "date": "2026-10-20",
-    "url": "https://www.routinegame.com/",
-    "img": "img/01-routine-cat-crt-viewfinder.jpg",
-    "type": "Game"
-  },
-  {
-    "title": "Madeleine Cultured Butter",
-    "creator": "Studio Hi Ho",
-    "date": "2026-10-20",
-    "url": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
-    "img": "img/02-madeleine-paddled-butter-specimens.jpg",
-    "type": "Packaging"
-  },
-  {
-    "title": "Chants of Sennaar — glyph notebook",
-    "creator": "Rundisc",
-    "date": "2026-10-20",
-    "url": "https://www.rundisc.io/chants-of-sennaar/",
-    "img": "img/03-chants-of-sennaar-glyph-notebook.jpg",
-    "type": "Game"
-  },
-  {
-    "title": "mui Board Gen 2",
-    "creator": "mui Lab, Kyoto",
-    "date": "2026-10-20",
-    "url": "https://muiboard.com/products/mui-board-gen-2",
-    "img": "img/05-mui-board-gen2-wood-display.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Smart home",
-        "Tactile control",
-        "Wood",
-        "Calm technology",
-        "Screenless",
-        "Furniture",
-        "Ambient interface"
-      ],
-      "hook": "a smart home control that's a piece of furniture instead of a screen",
-      "contrast": "digital control against a warm, tactile wooden surface",
-      "handwritten": "tactile control for smart home, an alternative to a screen and an aesthetic piece of furniture"
-    }
-  },
-  {
-    "title": "Fuego Camina Conmigo",
-    "creator": "Ediciones Réplica × La Bruja Riso",
-    "date": "2026-10-21",
-    "url": "https://www.labrujariso.com/products/fuego-camina-conmigo",
-    "img": "img/01-fuego-camina-conmigo-book.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "No Magic in Riso",
-    "creator": "O.OO, Taipei",
-    "date": "2026-10-21",
-    "url": "https://odotoo.com/no-magic-in-riso/",
-    "img": "img/02-no-magic-in-riso-k-ramps.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Observation — station-AI interface",
-    "creator": "No Code",
-    "date": "2026-10-21",
-    "url": "https://store.steampowered.com/app/906100/Observation/",
-    "img": "img/03-observation-clamp-detachment.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "Diegetic UI",
-        "Station AI",
-        "Perspective shift",
-        "Camera feeds",
-        "Sci-fi interface",
-        "Information stream",
-        "Human + AI"
-      ],
-      "hook": "a game played from the ai's point of view, like HAL running the station",
-      "contrast": "the ai's data streams against the human spaces it shares, and the places humans can't reach",
-      "handwritten": "HAL's perspective lol, such an interesting perspective shift. inspiring for thinking about what kind of information stream and reaction an ai can have in a shared space with humans, and beyond what humans can reach"
-    }
-  },
-  {
-    "title": "Music Bild — music player concept",
-    "creator": "Slava Kornilov",
-    "date": "2026-10-21",
-    "url": "https://x.com/slavakornilov/status/2111937150455316607",
-    "img": "img/slavakornilov-music-bild.jpg",
-    "type": "Interaction"
-  },
-  {
-    "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
-    "creator": "Julián Leiss",
-    "date": "2026-10-21",
-    "url": "https://x.com/julianleiss/status/2110868325052149925",
-    "img": "img/julianleiss-ajedrez.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Motion",
-        "Editorial film",
-        "AI-assisted workflow",
-        "Stop motion",
-        "Paper quality",
-        "Borges",
-        "Literary adaptation",
-        "Art direction"
-      ],
-      "hook": "a poem turned into fifteen cuts, with an ai-assisted workflow behind it",
-      "contrast": "handmade paper and stop-motion feel against a generated pipeline",
-      "handwritten": "impressive use of an ai-assisted workflow in motion design, and the art direction itself is very good too, the paper quality and stop motion quality"
-    }
-  },
-  {
-    "title": "House for Daydreams — tracing-paper texture poster",
-    "creator": "Nono Archive (@nono_ai_archive)",
-    "date": "2026-10-21",
-    "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
-    "img": "img/nono-tracing-paper-poster.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Poster",
-        "Tracing paper",
-        "Translucent layers",
-        "Mixed-tool workflow",
-        "ChatGPT image",
-        "AI-assisted",
-        "Dreamy"
-      ],
-      "hook": "a tracing-paper poster made through a mixed-tool ai image process",
-      "contrast": "delicate paper texture against a generated, digital workflow",
-      "handwritten": "cool use case of chatgpt image, and a mixed-tool ai visual generation process"
-    }
-  },
-  {
-    "title": "Typography book, revisited with flip interactions",
-    "creator": "Tân Tân Nguyễn",
-    "date": "2026-10-21",
-    "url": "https://x.com/premiumtantan/status/2109024841290654186",
-    "img": "img/premiumtantan-book.jpg",
-    "type": "Print"
-  },
-  {
-    "title": "Portfolio website — 'What's in m' bag'",
-    "creator": "Chi Quach",
-    "date": "2026-10-21",
-    "url": "https://x.com/chiquwch/status/2107275884961124515",
-    "img": "img/chiquwch-website.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Web",
-        "Portfolio",
-        "Concept",
-        "X-ray",
-        "Security scan",
-        "Cyan and magenta",
-        "Playful"
-      ],
-      "hook": "a portfolio framed as a bag going through an x-ray scanner, with the work and her objects glowing inside it",
-      "contrast": "a clinical security scan in cyan and magenta against a very personal pile of everyday things",
-      "handwritten": "the airport scan makes a portfolio feel like something you get to look inside of, which is such a sharp way to frame it. chi you are awesome"
-    }
-  },
-  {
-    "title": "State of Generative Media, Vol. 2 — report site",
-    "creator": "fal",
-    "date": "2026-10-21",
-    "url": "https://x.com/fal/status/2102461868711247876",
-    "img": "img/fal-report.jpg",
-    "type": "Interaction"
-  },
-  {
-    "title": "Kitten stop-motion animation",
-    "creator": "Vanessa Stockard & Jenni Pasanen",
-    "date": "2026-10-21",
-    "url": "https://x.com/cheerforart/status/1798139113453035884",
-    "img": "img/cheerforart-kitten.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Kimi film — archival objects & index tabs",
-    "creator": "Kimi (Moonshot AI)",
-    "date": "2026-10-21",
-    "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
-    "img": "img/kimi.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Motion",
-        "Film",
-        "Archival objects",
-        "Index tabs",
-        "Ephemera",
-        "Science + aesthetics",
-        "Catalogue",
-        "Specimen"
-      ],
-      "hook": "a film that treats its objects like items in an archive",
-      "contrast": "scientific order against aesthetic play",
-      "handwritten": "love the archival quality of it, the intersection of science and aesthetics"
-    }
-  },
-  {
-    "title": "Memory vessel — soft, nostalgic object",
-    "creator": "Echo Zhou",
-    "date": "2026-10-21",
-    "url": "https://x.com/_echozhou/status/2107559317318803687",
-    "img": "img/echozhou-memory-vessel.jpg",
-    "type": "Identity"
-  },
-  {
-    "title": "Alan Wake II — case board",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/alan-wake-ii/",
-    "img": "img/iig-alan-wake-ii-case-board.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "Narrative",
-        "Music",
-        "Theatre",
-        "Film",
-        "Visual art",
-        "Horror",
-        "Immersive"
-      ],
-      "hook": "Remedy's survival-horror thriller, a game that folds narrative, music, theatre, film and visual art into one immersive world",
-      "contrast": "a single game that behaves like many art forms at once, and the case board is where you hold them together",
-      "handwritten": "my favorite game. a game can pull in narrative, music, theatre, film and visual art and make them immersive, and alan wake ii is the perfect concoction of all of it"
-    }
-  },
-  {
-    "title": "Control Resonant — ability select",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/control-resonant/",
-    "img": "img/iig-control-resonant-ability-select.jpg",
-    "type": "Game"
-  },
-  {
-    "title": "Control — correspondence reader",
-    "creator": "Remedy Entertainment",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/control/",
-    "img": "img/iig-control-correspondence.jpg",
-    "type": "Game"
-  },
-  {
-    "title": "Carlo Nason glass lamps",
-    "creator": "Carlo Nason (via Interior Hub)",
-    "date": "2026-10-21",
-    "url": "https://x.com/INTERIORBYHUT/status/2110370078289981455",
-    "img": "img/hut-nason.jpg",
-    "type": "Physical"
-  },
-  {
-    "title": "Glowing pendant light in a dim interior",
-    "creator": "via @manwon_man",
-    "date": "2026-10-21",
-    "url": "https://x.com/manwon_man/status/2105480360637464788",
-    "img": "img/manwon-lamp.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Lighting",
-        "Pendant lamp",
-        "Natural patterns",
-        "Rhythm",
-        "Ambient",
-        "Dim interior",
-        "Organic form"
-      ],
-      "hook": "a lamp that brings natural patterns into an artificial room",
-      "contrast": "soft organic rhythm against a dim, built interior",
-      "handwritten": "creative use of natural patterns and rhythms for an artificial environment"
-    }
-  },
-  {
-    "title": "Butterfly web piece — shown at 39 Great Jones St",
-    "creator": "Chia (@nonperformant)",
-    "date": "2026-10-21",
-    "url": "https://x.com/nonperformant/status/2103871168881344999",
-    "img": "img/chia.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Web art",
-        "Digital garden",
-        "Butterflies",
-        "Living system",
-        "Generative",
-        "Gallery",
-        "Organic"
-      ],
-      "hook": "a garden on the internet, where butterflies make a web page feel alive",
-      "contrast": "soft, living motion against the cold flatness of a browser",
-      "handwritten": "makes the digital alive"
-    }
-  },
-  {
-    "title": "Flat-lay compositions — pens & coloured squares",
-    "creator": "@mangoddango",
-    "date": "2026-10-21",
-    "url": "https://x.com/mangoddango/status/2103427289648189811",
-    "img": "img/mango.jpg",
-    "type": "Illustration",
-    "note": {
-      "tags": [
-        "Illustration",
-        "Flat-lay",
-        "Geometric",
-        "Everyday objects",
-        "Lighting",
-        "Arrangement",
-        "Still life",
-        "Sarah Sze"
-      ],
-      "hook": "pens and coloured squares arranged into geometric compositions under great light",
-      "contrast": "mundane desk objects against careful, almost sculptural order",
-      "handwritten": "reminds me of sarah sze, but desk sized"
-    }
-  },
-  {
-    "title": "Blue-washed architecture image",
-    "creator": "@mehavves",
-    "date": "2026-10-21",
-    "url": "https://x.com/mehavves/status/2101581525137432686",
-    "img": "img/mehavves.jpg",
-    "type": "Illustration"
-  },
-  {
-    "title": "Flowers appearing one by one in an empty vase",
-    "creator": "via @manwon_man",
-    "date": "2026-10-21",
-    "url": "https://x.com/manwon_man/status/2101213222565290451",
-    "img": "img/manwon-flowers.jpg",
-    "type": "Motion"
-  },
-  {
-    "title": "Remedy art direction — in-game frames",
-    "creator": "Remedy Entertainment (via Ruancarlo Silva)",
-    "date": "2026-10-21",
-    "url": "https://x.com/ruancarlo97/status/2100958641067102551",
-    "img": "img/ruan-remedy.jpg",
-    "type": "Game"
-  },
-  {
-    "title": "Dancheong-inspired pattern set",
-    "creator": "via @gwamoleipstop",
-    "date": "2026-10-21",
-    "url": "https://x.com/gwamoleipstop/status/2100474759767331276",
-    "img": "img/gwam-dancheong.jpg",
-    "type": "Identity"
-  },
-  {
-    "title": "Runebender GPUI — mid-gray font editor theme",
-    "creator": "Eli Heuer",
-    "date": "2026-10-21",
-    "url": "https://x.com/eliheuer/status/2096679043303416162",
-    "img": "img/eli-runebender.jpg",
-    "type": "Interaction"
-  },
-  {
-    "title": "Artemis, Athena & Persephone — vase-painting illustration",
-    "creator": "Roa2112",
-    "date": "2026-10-21",
-    "url": "https://x.com/Roa21123/status/2093692608900161745",
-    "img": "img/roa.jpg",
-    "type": "Illustration",
-    "note": {
-      "tags": [
-        "Illustration",
-        "Greek vase painting",
-        "Black-figure",
-        "Myth",
-        "Historical style",
-        "Ornament",
-        "Digital revival"
-      ],
-      "hook": "digital illustration drawn in an ancient vase-painting style",
-      "contrast": "an ancient visual language made with modern tools",
-      "handwritten": "reimagining digital work from ancient rules"
-    }
-  },
-  {
-    "title": "Travel tile designs as a graphic source",
-    "creator": "via @gwamoleipstop",
-    "date": "2026-10-21",
-    "url": "https://x.com/gwamoleipstop/status/2086294816426750431",
-    "img": "img/gwam-tiles.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Cultural pattern",
-        "Vernacular design",
-        "Tile motifs",
-        "Historical reference",
-        "Print",
-        "Ornament",
-        "Found graphics"
-      ],
-      "hook": "real-world tiles turned into a graphic language",
-      "contrast": "historical craft brought into modern print",
-      "handwritten": "print language grown from everyday floors and cultural ambience"
-    }
-  },
-  {
-    "title": "artwork.01–10 — clouded CD case",
-    "creator": "Hiro Ichikawa (市川央)",
-    "date": "2026-10-21",
-    "url": "https://x.com/hiro000509/status/2086422239889760720",
-    "img": "img/hiro.jpg",
-    "type": "Packaging",
-    "note": {
-      "tags": [
-        "Series design",
-        "Ephemeral",
-        "Atmospheric",
-        "Colour palette",
-        "Pattern",
-        "Cohesive system",
-        "Physical media",
-        "Soft gradient"
-      ],
-      "hook": "ten variations that still read as one set",
-      "contrast": "different palettes and patterns held together by one mood",
-      "handwritten": "love the ephemeral atmosphere, ten different palettes and patterns that feel like one set"
-    }
-  },
-  {
-    "title": "Pink tear-through print animation",
-    "creator": "@annaxmalina",
-    "date": "2026-10-21",
-    "url": "https://x.com/annaxmalina/status/2075626855562924429",
-    "img": "img/anna.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Print animation",
-        "Materiality",
-        "Riso-like texture",
-        "Pink",
-        "Stop-motion",
-        "Tactile motion",
-        "Analogue grain",
-        "Paper"
-      ],
-      "hook": "printed frames animated, so each one carries its own texture",
-      "contrast": "flat print colour that moves like it's alive",
-      "handwritten": "texture and color treatment unique to printed frames"
-    }
-  },
-  {
-    "title": "Death Stranding — cargo management screen",
-    "creator": "Kojima Productions",
-    "date": "2026-10-21",
-    "url": "https://interfaceingame.com/games/death-stranding/",
-    "img": "img/death-stranding-cargo.png",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game UI",
-        "HUD",
-        "3D perspective",
-        "Parallax",
-        "Immersive interaction",
-        "Diegetic",
-        "Sci-fi interface",
-        "Kojima Productions"
-      ],
-      "hook": "a cargo screen with real depth, tilted and layered in 3D",
-      "contrast": "flat HUD data on a spatial, parallax plane",
-      "handwritten": "the tilt makes a menu feel like a space"
-    }
-  },
-  {
-    "title": "TP–7 field recorder",
-    "creator": "teenage engineering",
-    "date": "2026-10-21",
-    "url": "https://teenage.engineering/products/tp-7",
-    "img": "img/tp7.webp",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Industrial design",
-        "Retro-futurist",
-        "Grid system",
-        "Playful tech",
-        "Braun lineage",
-        "Dieter Rams",
-        "Machined aluminium",
-        "Minimal controls"
-      ],
-      "hook": "a graphic-design grid turned into an object, in the Braun tradition",
-      "contrast": "strict precision vs a sense of fun",
-      "handwritten": "a print grid you can hold in your hands"
-    }
-  },
-  {
-    "title": "Pond — early preview",
-    "creator": "Butterfly (@bflycomputer)",
-    "date": "2026-10-21",
-    "url": "https://x.com/bflycomputer/status/2105695834511982836",
-    "img": "img/bfly-pond.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "OS design",
-        "Block layout",
-        "Colour palette",
-        "Motion",
-        "Bento grid",
-        "Soft UI",
-        "Playful computing"
-      ],
-      "hook": "a whole OS built from colourful blocks",
-      "contrast": "calm blocks vs lively motion",
-      "handwritten": "rigid blocks, but the palette and motion make them alive, the branding too"
-    }
-  },
-  {
-    "title": "Play_Music_Theory — drawings that play as music",
-    "creator": "Play_Music_Theory",
-    "date": "2026-10-21",
-    "url": "https://x.com/playmusictheory/status/2099610933731737810",
-    "img": "img/pmt.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Drawing to sound",
-        "Generative",
-        "Sound design",
-        "Creative tool",
-        "Visual music",
-        "Playful instrument",
-        "Hand-drawn interface"
-      ],
-      "hook": "a drawing that plays back as music",
-      "contrast": "loose hand-drawn marks vs precise sound",
-      "handwritten": "a drawing that's also a sound track, one of my favorite things I saw this year"
-    }
-  },
-  {
-    "title": "Otto Künzli — Ambassador of Jewelry certificate",
-    "creator": "kimera (Michael Clasen & Johannes Pejas)",
-    "date": "2026-10-22",
-    "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
-    "img": "img/1-kimera-kuenzli-letterpress-cliche.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Tactile",
-        "Letterpress",
-        "Swiss grid",
-        "Typography",
-        "International Style",
-        "Object as print",
-        "Metal type"
-      ],
-      "hook": "the printing plate itself is the award",
-      "contrast": "heavy metal object vs strict, light grid",
-      "handwritten": "swiss grid + tactile materiality"
-    }
-  },
-  {
-    "title": "TUNIC — in-game instruction manual",
-    "creator": "Andrew Shouldice / Finji",
-    "date": "2026-10-22",
-    "url": "https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/",
-    "img": "img/3-tunic-manual-cathedral.png",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Print texture",
-        "Game UI",
-        "Graphic design",
-        "Diegetic",
-        "Watercolour",
-        "Hand-drawn",
-        "Retro game manual",
-        "Invented script"
-      ],
-      "hook": "a real-feeling printed manual living inside the game",
-      "contrast": "physical print texture in a digital world",
-      "handwritten": "the print wear makes it feel real, love these artifacts in game ui"
-    }
-  },
-  {
-    "title": "Blue Stairwell Print",
-    "creator": "Wunder",
-    "date": "2026-10-22",
-    "url": "https://x.com/WunderJp/status/2113221469811749084",
-    "img": "img/wunder.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Colour",
-        "Texture",
-        "Light",
-        "Liminal",
-        "Monochrome blue",
-        "Grain",
-        "Quiet architecture"
-      ],
-      "hook": "light that makes the stairwell feel in-between",
-      "handwritten": "the lighting and atmosphere makes it feel like you're between two places"
-    }
-  },
-  {
-    "title": "Organic Futurism of Ross Lovegrove",
-    "creator": "Ross Lovegrove (via @luusssso)",
-    "date": "2026-10-22",
-    "url": "https://x.com/luusssso/status/2113001924509462563",
-    "img": "img/lovegrove.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Architecture",
-        "Organic geometry",
-        "Photography",
-        "Light",
-        "Organic",
-        "Retro-futurism",
-        "Liminal",
-        "Biomorphic",
-        "Parametric"
-      ],
-      "hook": "flowing geometry, shot with care",
-      "contrast": "organic curves vs precise structure",
-      "handwritten": "the geometry feels grown rather than drawn, and the lighting treats it like a specimen"
-    }
-  },
-  {
-    "title": "Mercedes-Benz Museum Elevator Pods",
-    "creator": "via @SciFiArchives",
-    "date": "2026-10-22",
-    "url": "https://x.com/SciFiArchives/status/2112914553545830777",
-    "img": "img/mercedes-elevator.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Retro-futurist",
-        "Industrial",
-        "Glass + Metal",
-        "Cinematic",
-        "Space-age",
-        "Brutalist backdrop",
-        "Tinted glass",
-        "Sci-fi set design"
-      ],
-      "hook": "tinted glass against cold metal",
-      "contrast": "small smooth pod vs huge raw concrete wall",
-      "handwritten": "the warm light from the glass against the cold metallic, the pod against the concrete background"
-    }
-  },
-  {
-    "title": "Canvas-and-Document Editor",
-    "creator": "Yaro Svyatykh",
-    "date": "2026-10-22",
-    "url": "https://x.com/svyatykh/status/2112908234805940646",
-    "img": "img/svyatykh.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Direct manipulation",
-        "Canvas UI",
-        "Motion",
-        "Spatial UI",
-        "Tactile software",
-        "Gesture-led"
-      ],
-      "hook": "the select-and-bundle gesture",
-      "handwritten": "like the select-and-bundle interaction"
-    }
-  },
-  {
-    "title": "Shadows of Unknown MV Typography",
-    "creator": "Vermii",
-    "date": "2026-10-22",
-    "url": "https://x.com/vermillionamvs/status/2112783968357781758",
-    "img": "img/vermii.jpg",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Kinetic type",
-        "Motion",
-        "Music video",
-        "Expressive typography",
-        "Rhythm-led",
-        "Title design"
-      ],
-      "hook": "type that performs through movement",
-      "handwritten": "the type performs as it moves"
-    }
-  },
-  {
-    "title": "Slit Rail System",
-    "creator": "Jade Liou for Folktory",
-    "date": "2026-10-23",
-    "url": "https://fontsinuse.com/uses/80448/folktory-slit-rail-system",
-    "img": "img/1-folktory-slit-rail-system.png",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Faded print",
-        "Instruction manual",
-        "Technical illustration",
-        "Spec sheet",
-        "Type placement",
-        "Exhibition poster",
-        "Industrial design",
-        "Specimen photography"
-      ],
-      "hook": "a furniture poster that reads like an assembly manual",
-      "contrast": "worn, faded print against precise technical drawing",
-      "handwritten": "borrows the authority of an assembly manual, but the faded print and wandering type make it soft"
-    }
-  },
-  {
-    "title": "DJDB, the Daejang Dakbal archive",
-    "creator": "Jihoon Kang",
-    "date": "2026-10-23",
-    "url": "https://djdb.kr/",
-    "img": "img/2-djdb-daejang-dakbal-archive.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Web archive",
-        "Timeline",
-        "Interaction design",
-        "Mono type",
-        "Restricted palette",
-        "Red accent",
-        "Personal archive",
-        "Playful details"
-      ],
-      "hook": "a small restaurant's whole life turned into a timeline you can play with",
-      "contrast": "a serious archive format, with a goofy chicken-feet interaction",
-      "handwritten": "a serious archive for chicken feet"
-    }
-  },
-  {
-    "title": "SIGNALIS inventory",
-    "creator": "rose-engine",
-    "date": "2026-10-23",
-    "url": "https://store.steampowered.com/app/1262350/SIGNALIS/",
-    "img": "img/3-signalis-inventory.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game UI",
-        "Glitch",
-        "Error aesthetic",
-        "Space",
-        "Retro sci-fi",
-        "CRT",
-        "Diegetic interface",
-        "Red on black",
-        "Pixel art"
-      ],
-      "hook": "an inventory that looks like a broken screen from a ship out in deep space",
-      "contrast": "a beautiful, soft art style against harsh, glitchy screens",
-      "handwritten": "clinical cyber + space aesthetics, but the glitch makes it feel haunted"
-    }
-  },
-  {
-    "title": "Blank Reading (A Second Life)",
-    "creator": "Passage (Seoul), Im Jaehyung monograph",
-    "date": "2026-10-26",
-    "url": "https://passage.onl/Blank-Reading",
-    "img": "img/1-blank-reading-passage.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Book design",
-        "Monograph",
-        "Blind deboss",
-        "Minimal",
-        "Quiet typography",
-        "Negative space",
-        "Korean publishing",
-        "Grey on grey"
-      ],
-      "hook": "a monograph that whispers, with a cover you can only read by touch",
-      "contrast": "a tiny block of text against an almost empty contents page",
-      "handwritten": "quietness to the extreme"
-    }
-  },
-  {
-    "title": "Lorelei and the Laser Eyes",
-    "creator": "Simogo",
-    "date": "2026-10-26",
-    "url": "https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/",
-    "img": "img/4-lorelei-laser-eyes.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "Noir",
-        "Graphic novel",
-        "Monochrome",
-        "Single accent colour",
-        "Magenta",
-        "Retro-digital",
-        "2D + 3D"
-      ],
-      "hook": "a unique noir graphic-novel-esque art direction",
-      "contrast": "black and white against strong magenta, 2d style against 3d",
-      "handwritten": "noir graphic novel + retro-digital vibes"
-    }
-  },
-  {
-    "title": "Encounters: Giacometti guidebook",
-    "creator": "Daly & Lyon for the Barbican",
-    "date": "2026-10-27",
-    "url": "https://fontsinuse.com/uses/80379/encounters-giacometti-guidebook",
-    "img": "img/1-encounters-giacometti-guidebook.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Exhibition guide",
-        "Print",
-        "Typography",
-        "Materiality",
-        "Sculpture photography",
-        "Yellow + black",
-        "Industrial design",
-        "Icon index"
-      ],
-      "hook": "type that sits with the texture of the sculptures, not on top of them",
-      "contrast": "strong yellow against black sculpture photography",
-      "handwritten": "i've always liked giacometti, and the type works with the materiality of his sculptures. the yellow against the black photos is so striking, almost industrial design"
-    }
-  },
-  {
-    "title": "Return of the Obra Dinn",
-    "creator": "Lucas Pope",
-    "date": "2026-10-27",
-    "url": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
-    "img": "img/3-obra-dinn-muster-book.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "1-bit",
-        "Dither",
-        "Logbook",
-        "Period interface",
-        "Mechanic as interaction",
-        "Hand-lettered",
-        "Monochrome"
-      ],
-      "hook": "an 1807 insurance logbook that doubles as the game's whole interface",
-      "contrast": "strict 1-bit two-tone against crowded, hand-lettered crew sketches",
-      "handwritten": "love the art style and the mechanic, using the impossible as an interaction paradigm is always something i love about games"
-    }
-  },
-  {
-    "title": "Tack-Tile",
-    "creator": "Mitch Wiesen, web by Evan Whitaker",
-    "date": "2026-10-28",
-    "url": "https://www.tack-tile.com/",
-    "img": "img/4-tack-tile-archive.png",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Archive",
-        "Paper ephemera",
-        "Tactility",
-        "Lenticular",
-        "Physical to digital",
-        "Monospace",
-        "1780–1980",
-        "Human-made"
-      ],
-      "hook": "a growing archive of 6,700+ scanned paper things made between 1780 and 1980, shown in monospace with a dotted wordmark",
-      "contrast": "flat scans on a screen, but the page behaves like a lenticular card",
-      "handwritten": "the tactility is right there in the name, and the lenticular card effect turns a physical object's trick into a 2d digital one"
-    }
-  },
-  {
-    "title": "Gathering softly",
-    "creator": "Anna-Lena Oehm",
-    "date": "2026-10-29",
-    "url": "https://fontsinuse.com/uses/80633/gathering-softly-by-anna-lena-oehm",
-    "img": "img/1-gathering-softly-oehm.png",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Catalogue",
-        "Web archive",
-        "Code-generated",
-        "Monospace",
-        "Flowing script",
-        "Colour",
-        "Thin paper"
-      ],
-      "hook": "a web archive of online collections turned into a code-generated printed catalog on thin 60 g paper",
-      "contrast": "flowing DaVinci lettering against monospace OCR-X indexes",
-      "handwritten": "beautiful colors, and the flowing script sitting against the monospace index makes a web archive feel hand-bound"
-    }
-  },
-  {
-    "title": "Pentiment",
-    "creator": "Obsidian Entertainment",
-    "date": "2026-10-29",
-    "url": "https://store.steampowered.com/app/1205520/Pentiment/",
-    "img": "img/4-pentiment-manuscript.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "Illuminated manuscript",
-        "Medieval",
-        "Woodcut",
-        "Typography as character",
-        "Narrative design",
-        "Handwritten",
-        "Immersive"
-      ],
-      "hook": "a whole game built as a living illuminated manuscript, where each character's dialogue is set in a hand that fits their class and schooling",
-      "contrast": "a screen game that reads and behaves like an ink-and-parchment page",
-      "handwritten": "visual style, narrative and mechanics all in one, like breaking into the world of a medieval manuscript"
-    }
-  },
-  {
-    "title": "Space Between People",
-    "creator": "Hanna Noller",
-    "date": "2026-10-30",
-    "url": "https://www.spacebetweenpeople.com/work/index",
-    "img": "img/2-space-between-people-index.png",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Web",
-        "Editorial",
-        "Architecture",
-        "Single colour",
-        "Index",
-        "Catalogue card",
-        "Typography"
-      ],
-      "hook": "the site for architect Hanna Noller's practice, all in one blue on white, with a work index that runs year, title and category along ruled lines",
-      "contrast": "no highlight state in the nav, since it re-sets its own words so the current section slides to the centre",
-      "handwritten": "extremely clean"
-    }
-  },
-  {
-    "title": "ARCHIVE / ACHIEVE (ggg 416th exhibition)",
-    "creator": "Yoshihisa Tanaka",
-    "date": "2026-11-02",
-    "url": "https://www.dnpfcp.jp/gallery/ggg/jp/00000861",
-    "img": "img/1-tanaka-archive-achieve-washi-boxes.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Exhibition",
-        "Washi",
-        "Archive boxes",
-        "Storage as display",
-        "Japanese craft",
-        "Index",
-        "Paper"
-      ],
-      "hook": "a body of work shown as washi archive boxes, so the storage becomes the exhibition",
-      "contrast": "soft handmade paper against the strict logic of filing",
-      "handwritten": "the boxes are the show"
-    }
-  },
-  {
-    "title": "A Book for Making Books",
-    "creator": "Carolina Incerti",
-    "date": "2026-11-02",
-    "url": "https://www.itsnicethat.com/articles/carolina-incerti-a-book-for-making-books-publication-project-201026",
-    "img": "img/2-book-for-making-books-tabs.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Publication",
-        "Tabs",
-        "Manual",
-        "Bookmaking",
-        "Index",
-        "Self-referential",
-        "Tactile"
-      ],
-      "hook": "a tabbed book whose subject is how to make books",
-      "contrast": "an instruction manual's structure against a crafty, personal object",
-      "handwritten": "a book about itself"
-    }
-  },
-  {
-    "title": "Blue Prince",
-    "creator": "Dogubomb",
-    "date": "2026-11-02",
-    "url": "https://store.steampowered.com/app/1569580/Blue_Prince/",
-    "img": "img/3-blue-prince-drafting.jpg",
-    "type": "Game",
-    "note": {
-      "tags": [
-        "Game",
-        "Drafting",
-        "Floor plan",
-        "Blueprint",
-        "Puzzle",
-        "Room cards",
-        "Architecture",
-        "UI"
-      ],
-      "hook": "a mansion you build room by room by drafting floor-plan cards",
-      "contrast": "architect's drawing language against a mystery game",
-      "handwritten": "UI as a drafting table"
-    }
-  },
-  {
-    "title": "monome grid",
-    "creator": "monome (Brian Crabtree and Kelli Cain)",
-    "date": "2026-11-02",
-    "url": "https://monome.org/",
-    "img": "img/4-monome-grid-warm-light.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Instrument",
-        "Screenless",
-        "Button grid",
-        "Warm light",
-        "Minimal",
-        "Modular",
-        "Interaction"
-      ],
-      "hook": "a screenless instrument that answers only with warm light on a grid of buttons",
-      "contrast": "bare hardware against the expressive music it makes",
-      "handwritten": "the light is the interface"
-    }
-  },
-  {
-    "title": "Le fiabe sono vere… Storia popolare italiana",
-    "creator": "Omnigroup",
-    "date": "2026-11-05",
-    "url": "https://fontsinuse.com/uses/77128/fairytales-are-true-italian-folk-history-exhi",
-    "img": "img/1-fiabe-omnigroup-catalogue.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Catalogue",
-        "Colour-coded",
-        "Slipcase",
-        "Exhibition",
-        "Folk history",
-        "Index system",
-        "Uncoated"
-      ],
-      "hook": "twelve colour-coded booklets in a white slipcase, so the catalogue itself is the index for FormaFantasma's show",
-      "contrast": "one quiet white case against a fan of muted solid covers — yellow, burgundy, olive, mint — each a chapter with no hierarchy",
-      "handwritten": "the slipcase holds the system, and the colour does the sorting instead of a contents page"
-    }
-  },
-  {
-    "title": "Aplomb",
-    "creator": "Studio Lotta Nieminen",
-    "date": "2026-11-05",
-    "url": "https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026",
-    "img": "img/2-aplomb-stamp-perforation-box.jpg",
-    "type": "Packaging",
-    "note": {
-      "tags": [
-        "Packaging",
-        "Perfume",
-        "Blind emboss",
-        "Stamp perforation",
-        "Correspondence",
-        "White space",
-        "Serif + mono",
-        "Tactile"
-      ],
-      "hook": "a perfume box that behaves like a letter — blind-embossed stamp frame and postage perforations, almost no ink",
-      "contrast": "heavy empty board against tiny black type, with the relief doing the branding",
-      "handwritten": "feel it before you read it"
-    }
-  },
-  {
-    "title": "NotR — Pizza Itself",
-    "creator": "Vrints-Kolsteren",
-    "date": "2026-11-05",
-    "url": "https://www.itsnicethat.com/articles/vrints-kolsteren-napoli-on-the-road-graphic-design-project-010926",
-    "img": "img/4-notr-pizza-itself-box.jpg",
-    "type": "Identity",
-    "note": {
-      "tags": [
-        "Identity",
-        "Packaging",
-        "Pizza box",
-        "Spaced type",
-        "Monospace",
-        "Logistics",
-        "Industrial ephemera",
-        "Black on kraft"
-      ],
-      "hook": "a pizza box treated as the whole identity surface — spaced \"N o t R\" and monospace logistics type, no Italian-restaurant tropes",
-      "contrast": "shipping-label language against the warm everyday of a pizza lid",
-      "handwritten": "industrial ephemera on something you throw away"
-    }
-  },
-  {
-    "title": "The Echidna Zine",
-    "creator": "Hyper Pension",
-    "date": "2026-11-09",
-    "url": "https://fontsinuse.com/uses/77082/the-echidna-zine",
-    "img": "img/2-echidna-zine-hyper-pension.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Zine",
-        "Rubber stamp",
-        "Brush manuscript",
-        "Cyanotype",
-        "Parchment",
-        "Small edition",
-        "Mixed craft"
-      ],
-      "hook": "an edition of 30 where every page is a different craft, from stamp and brush to cyanotype and sheepskin",
-      "contrast": "ancient materials against a scrappy zine format",
-      "handwritten": "a collection of different craft"
-    }
-  },
-  {
-    "title": "Meant to be",
-    "creator": "Tobie Tse",
-    "date": "2026-11-09",
-    "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026",
-    "img": "img/3-tobie-tse-meant-to-be.png",
-    "type": "Motion",
-    "note": {
-      "tags": [
-        "Motion",
-        "Crochet",
-        "Filet grid",
-        "Scanned textile",
-        "Zoetrope",
-        "Loop",
-        "Handmade",
-        "Pixel-like"
-      ],
-      "hook": "hand-crocheted filet grids scanned frame by frame into zoetrope-style loops",
-      "contrast": "slow handwork against a fast, pixel-like loop",
-      "handwritten": "pixels you can hold"
-    }
-  },
-  {
-    "title": "V.H. Belvadi website (2026)",
-    "creator": "V.H. Belvadi",
-    "date": "2026-11-09",
-    "url": "https://fontsinuse.com/uses/79323/v-h-belvadi-website-2026",
-    "img": "img/4-belvadi-website-index.jpg",
-    "type": "Interaction",
-    "note": {
-      "tags": [
-        "Interaction",
-        "Book-as-website",
-        "Dust jacket",
-        "Roman numerals",
-        "Numbered index",
-        "Editorial",
-        "Quiet",
-        "Serif"
-      ],
-      "hook": "a personal site built like a book, with dust-jacket leaves, a roman-numeral preface and posts as a numbered index",
-      "contrast": "book conventions against an endless scrolling web",
-      "handwritten": "a book as a site"
-    }
-  },
-  {
-    "title": "Motion Sickness",
-    "creator": "Isabel + Helen",
-    "date": "2026-11-09",
-    "url": "https://www.itsnicethat.com/features/isabel-and-helen-motion-sickness-art-spotlight-100926",
-    "img": "img/5-isabel-helen-motion-sickness.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Maquettes",
-        "Motion tests",
-        "Studio shelves",
-        "Lo-fi",
-        "Kinetic",
-        "Process as work",
-        "Display"
-      ],
-      "hook": "shelves of lo-fi maquettes and motion tests shown as the finished work",
-      "contrast": "rough cardboard models against polished kinetic installations",
-      "handwritten": "the shelf is the portfolio"
-    }
-  },
-  {
-    "title": "CD-ROM PLAYER 01",
-    "creator": "das_POD",
-    "date": "2026-11-09",
-    "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
-    "img": "img/3-daspod-cdrom-player-01.jpg",
-    "type": "Physical",
-    "note": {
-      "tags": [
-        "Physical",
-        "Repurposed hardware",
-        "CD-ROM drive",
-        "Bent aluminium",
-        "Kit",
-        "Audio",
-        "Modular",
-        "Industrial"
-      ],
-      "hook": "a used computer CD-ROM drive housed in bent aluminium and turned into a kit CD player",
-      "contrast": "beige PC junk against crisp folded metal",
-      "handwritten": "e-waste made pretty and functional again"
-    }
-  },
-  {
-    "title": "Eating the Whole Fish",
-    "creator": "BEAM (Annie Chen and Zoe Lee), design by Kayla Feng",
-    "date": "2026-11-09",
-    "url": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
-    "img": "img/4-eating-the-whole-fish-anatomy.jpg",
-    "type": "Print",
-    "note": {
-      "tags": [
-        "Print",
-        "Cookbook",
-        "Specimen plates",
-        "Anatomical",
-        "Acid green",
-        "Scientific illustration",
-        "Food",
-        "Bold colour"
-      ],
-      "hook": "a cookbook laid out like natural-history plates, with fish anatomy on acid green",
-      "contrast": "museum-specimen calm against a loud, almost toxic green",
-      "handwritten": "cookbook disguised as a field guide"
-    }
+ {
+  "title": "Japanese commercial art, giraffe print (1930)",
+  "creator": "via @DesignReviewed",
+  "date": "2026-10-14",
+  "url": "https://x.com/DesignReviewed",
+  "img": "img/4-designreviewed-1930-commercial-art.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Japanese commercial art",
+    "1930s",
+    "Showa-era print",
+    "Playful",
+    "Animal illustration",
+    "Graphic layout",
+    "Flat colour",
+    "Vintage advertising"
+   ],
+   "hook": "a giraffe that's goofy but sits in a really well-built layout",
+   "contrast": "a silly subject against a disciplined composition",
+   "handwritten": "it's just fun"
   }
+ },
+ {
+  "title": "Olivetti Telescriventi advert",
+  "creator": "Walter Ballmer, 1964",
+  "date": "2026-10-15",
+  "url": "https://x.com/DesignReviewed/status/2110658827976847424",
+  "img": "img/03-ballmer-olivetti-telescriventi.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Olivetti",
+    "Mid-century advertising",
+    "2D + 3D",
+    "Editorial layout",
+    "Expressive",
+    "Print texture",
+    "Italian modernism",
+    "Corporate design"
+   ],
+   "hook": "an ad that's tidy like an editorial page but still loose and playful",
+   "contrast": "a quiet column of technical text against bending, dimensional stripes",
+   "handwritten": "editorial order, but the 3d objects loosen it up, like the retro print quality (because it is retro)"
+  }
+ },
+ {
+  "title": "Quiet Media — Inaugural Issue pocket",
+  "creator": "Charlotte Rubesa",
+  "date": "2026-10-16",
+  "url": "https://quietmedia.metalabel.com/inauguraledition",
+  "img": "img/01-quiet-media-pocket.jpg",
+  "type": "Packaging"
+ },
+ {
+  "title": "Internet Phone Book — Issue One",
+  "creator": "Elliott Cost & Kristoffer Tjalve",
+  "date": "2026-10-16",
+  "url": "https://internetphonebook.net/",
+  "img": "img/05-internet-phone-book.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Karakami woodblock papers",
+  "creator": "Kira Karacho, Kyoto",
+  "date": "2026-10-19",
+  "url": "https://kirakaracho.jp/en/production/",
+  "img": "img/kira-karacho-karakami-printing.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Dictionary of the Illegible",
+  "creator": "Laurenz Brunner / Source Type",
+  "date": "2026-10-19",
+  "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+  "img": "img/dictionary-of-the-illegible-cover.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Routine — the C.A.T. handheld HUD",
+  "creator": "Lunar Software",
+  "date": "2026-10-20",
+  "url": "https://www.routinegame.com/",
+  "img": "img/01-routine-cat-crt-viewfinder.jpg",
+  "type": "Game"
+ },
+ {
+  "title": "Madeleine Cultured Butter",
+  "creator": "Studio Hi Ho",
+  "date": "2026-10-20",
+  "url": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
+  "img": "img/02-madeleine-paddled-butter-specimens.jpg",
+  "type": "Packaging"
+ },
+ {
+  "title": "Chants of Sennaar — glyph notebook",
+  "creator": "Rundisc",
+  "date": "2026-10-20",
+  "url": "https://www.rundisc.io/chants-of-sennaar/",
+  "img": "img/03-chants-of-sennaar-glyph-notebook.jpg",
+  "type": "Game"
+ },
+ {
+  "title": "mui Board Gen 2",
+  "creator": "mui Lab, Kyoto",
+  "date": "2026-10-20",
+  "url": "https://muiboard.com/products/mui-board-gen-2",
+  "img": "img/05-mui-board-gen2-wood-display.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Smart home",
+    "Tactile control",
+    "Wood",
+    "Calm technology",
+    "Screenless",
+    "Furniture",
+    "Ambient interface"
+   ],
+   "hook": "a smart home control that's a piece of furniture instead of a screen",
+   "contrast": "digital control against a warm, tactile wooden surface",
+   "handwritten": "tactile control for smart home, an alternative to a screen and an aesthetic piece of furniture"
+  }
+ },
+ {
+  "title": "Fuego Camina Conmigo",
+  "creator": "Ediciones Réplica × La Bruja Riso",
+  "date": "2026-10-21",
+  "url": "https://www.labrujariso.com/products/fuego-camina-conmigo",
+  "img": "img/01-fuego-camina-conmigo-book.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "No Magic in Riso",
+  "creator": "O.OO, Taipei",
+  "date": "2026-10-21",
+  "url": "https://odotoo.com/no-magic-in-riso/",
+  "img": "img/02-no-magic-in-riso-k-ramps.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Observation — station-AI interface",
+  "creator": "No Code",
+  "date": "2026-10-21",
+  "url": "https://store.steampowered.com/app/906100/Observation/",
+  "img": "img/03-observation-clamp-detachment.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Diegetic UI",
+    "Station AI",
+    "Perspective shift",
+    "Camera feeds",
+    "Sci-fi interface",
+    "Information stream",
+    "Human + AI"
+   ],
+   "hook": "a game played from the ai's point of view, like HAL running the station",
+   "contrast": "the ai's data streams against the human spaces it shares, and the places humans can't reach",
+   "handwritten": "HAL's perspective lol, such an interesting perspective shift. inspiring for thinking about what kind of information stream and reaction an ai can have in a shared space with humans, and beyond what humans can reach"
+  }
+ },
+ {
+  "title": "Music Bild — music player concept",
+  "creator": "Slava Kornilov",
+  "date": "2026-10-21",
+  "url": "https://x.com/slavakornilov/status/2111937150455316607",
+  "img": "img/slavakornilov-music-bild.jpg",
+  "type": "Interaction"
+ },
+ {
+  "title": "Borges' 'Ajedrez' — editorial film in fifteen cuts",
+  "creator": "Julián Leiss",
+  "date": "2026-10-21",
+  "url": "https://x.com/julianleiss/status/2110868325052149925",
+  "img": "img/julianleiss-ajedrez.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Motion",
+    "Editorial film",
+    "AI-assisted workflow",
+    "Stop motion",
+    "Paper quality",
+    "Borges",
+    "Literary adaptation",
+    "Art direction"
+   ],
+   "hook": "a poem turned into fifteen cuts, with an ai-assisted workflow behind it",
+   "contrast": "handmade paper and stop-motion feel against a generated pipeline",
+   "handwritten": "impressive use of an ai-assisted workflow in motion design, and the art direction itself is very good too, the paper quality and stop motion quality"
+  }
+ },
+ {
+  "title": "House for Daydreams — tracing-paper texture poster",
+  "creator": "Nono Archive (@nono_ai_archive)",
+  "date": "2026-10-21",
+  "url": "https://x.com/nono_ai_archive/status/2109599972341534898",
+  "img": "img/nono-tracing-paper-poster.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Poster",
+    "Tracing paper",
+    "Translucent layers",
+    "Mixed-tool workflow",
+    "ChatGPT image",
+    "AI-assisted",
+    "Dreamy"
+   ],
+   "hook": "a tracing-paper poster made through a mixed-tool ai image process",
+   "contrast": "delicate paper texture against a generated, digital workflow",
+   "handwritten": "cool use case of chatgpt image, and a mixed-tool ai visual generation process"
+  }
+ },
+ {
+  "title": "Typography book, revisited with flip interactions",
+  "creator": "Tân Tân Nguyễn",
+  "date": "2026-10-21",
+  "url": "https://x.com/premiumtantan/status/2109024841290654186",
+  "img": "img/premiumtantan-book.jpg",
+  "type": "Print"
+ },
+ {
+  "title": "Portfolio website — 'What's in m' bag'",
+  "creator": "Chi Quach",
+  "date": "2026-10-21",
+  "url": "https://x.com/chiquwch/status/2107275884961124515",
+  "img": "img/chiquwch-website.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Web",
+    "Portfolio",
+    "Concept",
+    "X-ray",
+    "Security scan",
+    "Cyan and magenta",
+    "Playful"
+   ],
+   "hook": "a portfolio framed as a bag going through an x-ray scanner, with the work and her objects glowing inside it",
+   "contrast": "a clinical security scan in cyan and magenta against a very personal pile of everyday things",
+   "handwritten": "the airport scan makes a portfolio feel like something you get to look inside of, which is such a sharp way to frame it. chi you are awesome"
+  }
+ },
+ {
+  "title": "State of Generative Media, Vol. 2 — report site",
+  "creator": "fal",
+  "date": "2026-10-21",
+  "url": "https://x.com/fal/status/2102461868711247876",
+  "img": "img/fal-report.jpg",
+  "type": "Interaction"
+ },
+ {
+  "title": "Kitten stop-motion animation",
+  "creator": "Vanessa Stockard & Jenni Pasanen",
+  "date": "2026-10-21",
+  "url": "https://x.com/cheerforart/status/1798139113453035884",
+  "img": "img/cheerforart-kitten.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Kimi film — archival objects & index tabs",
+  "creator": "Kimi (Moonshot AI)",
+  "date": "2026-10-21",
+  "url": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
+  "img": "img/kimi.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Motion",
+    "Film",
+    "Archival objects",
+    "Index tabs",
+    "Ephemera",
+    "Science + aesthetics",
+    "Catalogue",
+    "Specimen"
+   ],
+   "hook": "a film that treats its objects like items in an archive",
+   "contrast": "scientific order against aesthetic play",
+   "handwritten": "love the archival quality of it, the intersection of science and aesthetics"
+  }
+ },
+ {
+  "title": "Memory vessel — soft, nostalgic object",
+  "creator": "Echo Zhou",
+  "date": "2026-10-21",
+  "url": "https://x.com/_echozhou/status/2107559317318803687",
+  "img": "img/echozhou-memory-vessel.jpg",
+  "type": "Identity"
+ },
+ {
+  "title": "Alan Wake II — case board",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/alan-wake-ii/",
+  "img": "img/iig-alan-wake-ii-case-board.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Narrative",
+    "Music",
+    "Theatre",
+    "Film",
+    "Visual art",
+    "Horror",
+    "Immersive"
+   ],
+   "hook": "Remedy's survival-horror thriller, a game that folds narrative, music, theatre, film and visual art into one immersive world",
+   "contrast": "a single game that behaves like many art forms at once, and the case board is where you hold them together",
+   "handwritten": "my favorite game. a game can pull in narrative, music, theatre, film and visual art and make them immersive, and alan wake ii is the perfect concoction of all of it"
+  }
+ },
+ {
+  "title": "Control Resonant — ability select",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control-resonant/",
+  "img": "img/iig-control-resonant-ability-select.jpg",
+  "type": "Game"
+ },
+ {
+  "title": "Control — correspondence reader",
+  "creator": "Remedy Entertainment",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/control/",
+  "img": "img/iig-control-correspondence.jpg",
+  "type": "Game"
+ },
+ {
+  "title": "Carlo Nason glass lamps",
+  "creator": "Carlo Nason (via Interior Hub)",
+  "date": "2026-10-21",
+  "url": "https://x.com/INTERIORBYHUT/status/2110370078289981455",
+  "img": "img/hut-nason.jpg",
+  "type": "Physical"
+ },
+ {
+  "title": "Glowing pendant light in a dim interior",
+  "creator": "via @manwon_man",
+  "date": "2026-10-21",
+  "url": "https://x.com/manwon_man/status/2105480360637464788",
+  "img": "img/manwon-lamp.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Lighting",
+    "Pendant lamp",
+    "Natural patterns",
+    "Rhythm",
+    "Ambient",
+    "Dim interior",
+    "Organic form"
+   ],
+   "hook": "a lamp that brings natural patterns into an artificial room",
+   "contrast": "soft organic rhythm against a dim, built interior",
+   "handwritten": "creative use of natural patterns and rhythms for an artificial environment"
+  }
+ },
+ {
+  "title": "Butterfly web piece — shown at 39 Great Jones St",
+  "creator": "Chia (@nonperformant)",
+  "date": "2026-10-21",
+  "url": "https://x.com/nonperformant/status/2103871168881344999",
+  "img": "img/chia.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Web art",
+    "Digital garden",
+    "Butterflies",
+    "Living system",
+    "Generative",
+    "Gallery",
+    "Organic"
+   ],
+   "hook": "a garden on the internet, where butterflies make a web page feel alive",
+   "contrast": "soft, living motion against the cold flatness of a browser",
+   "handwritten": "makes the digital alive"
+  }
+ },
+ {
+  "title": "Flat-lay compositions — pens & coloured squares",
+  "creator": "@mangoddango",
+  "date": "2026-10-21",
+  "url": "https://x.com/mangoddango/status/2103427289648189811",
+  "img": "img/mango.jpg",
+  "type": "Illustration",
+  "note": {
+   "tags": [
+    "Illustration",
+    "Flat-lay",
+    "Geometric",
+    "Everyday objects",
+    "Lighting",
+    "Arrangement",
+    "Still life",
+    "Sarah Sze"
+   ],
+   "hook": "pens and coloured squares arranged into geometric compositions under great light",
+   "contrast": "mundane desk objects against careful, almost sculptural order",
+   "handwritten": "reminds me of sarah sze, but desk sized"
+  }
+ },
+ {
+  "title": "Blue-washed architecture image",
+  "creator": "@mehavves",
+  "date": "2026-10-21",
+  "url": "https://x.com/mehavves/status/2101581525137432686",
+  "img": "img/mehavves.jpg",
+  "type": "Illustration"
+ },
+ {
+  "title": "Flowers appearing one by one in an empty vase",
+  "creator": "via @manwon_man",
+  "date": "2026-10-21",
+  "url": "https://x.com/manwon_man/status/2101213222565290451",
+  "img": "img/manwon-flowers.jpg",
+  "type": "Motion"
+ },
+ {
+  "title": "Remedy art direction — in-game frames",
+  "creator": "Remedy Entertainment (via Ruancarlo Silva)",
+  "date": "2026-10-21",
+  "url": "https://x.com/ruancarlo97/status/2100958641067102551",
+  "img": "img/ruan-remedy.jpg",
+  "type": "Game"
+ },
+ {
+  "title": "Dancheong-inspired pattern set",
+  "creator": "via @gwamoleipstop",
+  "date": "2026-10-21",
+  "url": "https://x.com/gwamoleipstop/status/2100474759767331276",
+  "img": "img/gwam-dancheong.jpg",
+  "type": "Identity"
+ },
+ {
+  "title": "Runebender GPUI — mid-gray font editor theme",
+  "creator": "Eli Heuer",
+  "date": "2026-10-21",
+  "url": "https://x.com/eliheuer/status/2096679043303416162",
+  "img": "img/eli-runebender.jpg",
+  "type": "Interaction"
+ },
+ {
+  "title": "Artemis, Athena & Persephone — vase-painting illustration",
+  "creator": "Roa2112",
+  "date": "2026-10-21",
+  "url": "https://x.com/Roa21123/status/2093692608900161745",
+  "img": "img/roa.jpg",
+  "type": "Illustration",
+  "note": {
+   "tags": [
+    "Illustration",
+    "Greek vase painting",
+    "Black-figure",
+    "Myth",
+    "Historical style",
+    "Ornament",
+    "Digital revival"
+   ],
+   "hook": "digital illustration drawn in an ancient vase-painting style",
+   "contrast": "an ancient visual language made with modern tools",
+   "handwritten": "reimagining digital work from ancient rules"
+  }
+ },
+ {
+  "title": "Travel tile designs as a graphic source",
+  "creator": "via @gwamoleipstop",
+  "date": "2026-10-21",
+  "url": "https://x.com/gwamoleipstop/status/2086294816426750431",
+  "img": "img/gwam-tiles.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Cultural pattern",
+    "Vernacular design",
+    "Tile motifs",
+    "Historical reference",
+    "Print",
+    "Ornament",
+    "Found graphics"
+   ],
+   "hook": "real-world tiles turned into a graphic language",
+   "contrast": "historical craft brought into modern print",
+   "handwritten": "print language grown from everyday floors and cultural ambience"
+  }
+ },
+ {
+  "title": "artwork.01–10 — clouded CD case",
+  "creator": "Hiro Ichikawa (市川央)",
+  "date": "2026-10-21",
+  "url": "https://x.com/hiro000509/status/2086422239889760720",
+  "img": "img/hiro.jpg",
+  "type": "Packaging",
+  "note": {
+   "tags": [
+    "Series design",
+    "Ephemeral",
+    "Atmospheric",
+    "Colour palette",
+    "Pattern",
+    "Cohesive system",
+    "Physical media",
+    "Soft gradient"
+   ],
+   "hook": "ten variations that still read as one set",
+   "contrast": "different palettes and patterns held together by one mood",
+   "handwritten": "love the ephemeral atmosphere, ten different palettes and patterns that feel like one set"
+  }
+ },
+ {
+  "title": "Pink tear-through print animation",
+  "creator": "@annaxmalina",
+  "date": "2026-10-21",
+  "url": "https://x.com/annaxmalina/status/2075626855562924429",
+  "img": "img/anna.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Print animation",
+    "Materiality",
+    "Riso-like texture",
+    "Pink",
+    "Stop-motion",
+    "Tactile motion",
+    "Analogue grain",
+    "Paper"
+   ],
+   "hook": "printed frames animated, so each one carries its own texture",
+   "contrast": "flat print colour that moves like it's alive",
+   "handwritten": "texture and color treatment unique to printed frames"
+  }
+ },
+ {
+  "title": "Death Stranding — cargo management screen",
+  "creator": "Kojima Productions",
+  "date": "2026-10-21",
+  "url": "https://interfaceingame.com/games/death-stranding/",
+  "img": "img/death-stranding-cargo.png",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game UI",
+    "HUD",
+    "3D perspective",
+    "Parallax",
+    "Immersive interaction",
+    "Diegetic",
+    "Sci-fi interface",
+    "Kojima Productions"
+   ],
+   "hook": "a cargo screen with real depth, tilted and layered in 3D",
+   "contrast": "flat HUD data on a spatial, parallax plane",
+   "handwritten": "the tilt makes a menu feel like a space"
+  }
+ },
+ {
+  "title": "TP–7 field recorder",
+  "creator": "teenage engineering",
+  "date": "2026-10-21",
+  "url": "https://teenage.engineering/products/tp-7",
+  "img": "img/tp7.webp",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Industrial design",
+    "Retro-futurist",
+    "Grid system",
+    "Playful tech",
+    "Braun lineage",
+    "Dieter Rams",
+    "Machined aluminium",
+    "Minimal controls"
+   ],
+   "hook": "a graphic-design grid turned into an object, in the Braun tradition",
+   "contrast": "strict precision vs a sense of fun",
+   "handwritten": "a print grid you can hold in your hands"
+  }
+ },
+ {
+  "title": "Pond — early preview",
+  "creator": "Butterfly (@bflycomputer)",
+  "date": "2026-10-21",
+  "url": "https://x.com/bflycomputer/status/2105695834511982836",
+  "img": "img/bfly-pond.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "OS design",
+    "Block layout",
+    "Colour palette",
+    "Motion",
+    "Bento grid",
+    "Soft UI",
+    "Playful computing"
+   ],
+   "hook": "a whole OS built from colourful blocks",
+   "contrast": "calm blocks vs lively motion",
+   "handwritten": "rigid blocks, but the palette and motion make them alive, the branding too"
+  }
+ },
+ {
+  "title": "Play_Music_Theory — drawings that play as music",
+  "creator": "Play_Music_Theory",
+  "date": "2026-10-21",
+  "url": "https://x.com/playmusictheory/status/2099610933731737810",
+  "img": "img/pmt.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Drawing to sound",
+    "Generative",
+    "Sound design",
+    "Creative tool",
+    "Visual music",
+    "Playful instrument",
+    "Hand-drawn interface"
+   ],
+   "hook": "a drawing that plays back as music",
+   "contrast": "loose hand-drawn marks vs precise sound",
+   "handwritten": "a drawing that's also a sound track, one of my favorite things I saw this year"
+  }
+ },
+ {
+  "title": "Otto Künzli — Ambassador of Jewelry certificate",
+  "creator": "kimera (Michael Clasen & Johannes Pejas)",
+  "date": "2026-10-22",
+  "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
+  "img": "img/1-kimera-kuenzli-letterpress-cliche.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Tactile",
+    "Letterpress",
+    "Swiss grid",
+    "Typography",
+    "International Style",
+    "Object as print",
+    "Metal type"
+   ],
+   "hook": "the printing plate itself is the award",
+   "contrast": "heavy metal object vs strict, light grid",
+   "handwritten": "swiss grid + tactile materiality"
+  }
+ },
+ {
+  "title": "TUNIC — in-game instruction manual",
+  "creator": "Andrew Shouldice / Finji",
+  "date": "2026-10-22",
+  "url": "https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/",
+  "img": "img/3-tunic-manual-cathedral.png",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Print texture",
+    "Game UI",
+    "Graphic design",
+    "Diegetic",
+    "Watercolour",
+    "Hand-drawn",
+    "Retro game manual",
+    "Invented script"
+   ],
+   "hook": "a real-feeling printed manual living inside the game",
+   "contrast": "physical print texture in a digital world",
+   "handwritten": "the print wear makes it feel real, love these artifacts in game ui"
+  }
+ },
+ {
+  "title": "Blue Stairwell Print",
+  "creator": "Wunder",
+  "date": "2026-10-22",
+  "url": "https://x.com/WunderJp/status/2113221469811749084",
+  "img": "img/wunder.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Colour",
+    "Texture",
+    "Light",
+    "Liminal",
+    "Monochrome blue",
+    "Grain",
+    "Quiet architecture"
+   ],
+   "hook": "light that makes the stairwell feel in-between",
+   "handwritten": "the lighting and atmosphere makes it feel like you're between two places"
+  }
+ },
+ {
+  "title": "Organic Futurism of Ross Lovegrove",
+  "creator": "Ross Lovegrove (via @luusssso)",
+  "date": "2026-10-22",
+  "url": "https://x.com/luusssso/status/2113001924509462563",
+  "img": "img/lovegrove.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Architecture",
+    "Organic geometry",
+    "Photography",
+    "Light",
+    "Organic",
+    "Retro-futurism",
+    "Liminal",
+    "Biomorphic",
+    "Parametric"
+   ],
+   "hook": "flowing geometry, shot with care",
+   "contrast": "organic curves vs precise structure",
+   "handwritten": "the geometry feels grown rather than drawn, and the lighting treats it like a specimen"
+  }
+ },
+ {
+  "title": "Mercedes-Benz Museum Elevator Pods",
+  "creator": "via @SciFiArchives",
+  "date": "2026-10-22",
+  "url": "https://x.com/SciFiArchives/status/2112914553545830777",
+  "img": "img/mercedes-elevator.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Retro-futurist",
+    "Industrial",
+    "Glass + Metal",
+    "Cinematic",
+    "Space-age",
+    "Brutalist backdrop",
+    "Tinted glass",
+    "Sci-fi set design"
+   ],
+   "hook": "tinted glass against cold metal",
+   "contrast": "small smooth pod vs huge raw concrete wall",
+   "handwritten": "the warm light from the glass against the cold metallic, the pod against the concrete background"
+  }
+ },
+ {
+  "title": "Canvas-and-Document Editor",
+  "creator": "Yaro Svyatykh",
+  "date": "2026-10-22",
+  "url": "https://x.com/svyatykh/status/2112908234805940646",
+  "img": "img/svyatykh.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Direct manipulation",
+    "Canvas UI",
+    "Motion",
+    "Spatial UI",
+    "Tactile software",
+    "Gesture-led"
+   ],
+   "hook": "the select-and-bundle gesture",
+   "handwritten": "like the select-and-bundle interaction"
+  }
+ },
+ {
+  "title": "Shadows of Unknown MV Typography",
+  "creator": "Vermii",
+  "date": "2026-10-22",
+  "url": "https://x.com/vermillionamvs/status/2112783968357781758",
+  "img": "img/vermii.jpg",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Kinetic type",
+    "Motion",
+    "Music video",
+    "Expressive typography",
+    "Rhythm-led",
+    "Title design"
+   ],
+   "hook": "type that performs through movement",
+   "handwritten": "the type performs as it moves"
+  }
+ },
+ {
+  "title": "Slit Rail System",
+  "creator": "Jade Liou for Folktory",
+  "date": "2026-10-23",
+  "url": "https://fontsinuse.com/uses/80448/folktory-slit-rail-system",
+  "img": "img/1-folktory-slit-rail-system.png",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Faded print",
+    "Instruction manual",
+    "Technical illustration",
+    "Spec sheet",
+    "Type placement",
+    "Exhibition poster",
+    "Industrial design",
+    "Specimen photography"
+   ],
+   "hook": "a furniture poster that reads like an assembly manual",
+   "contrast": "worn, faded print against precise technical drawing",
+   "handwritten": "borrows the authority of an assembly manual, but the faded print and wandering type make it soft"
+  }
+ },
+ {
+  "title": "DJDB, the Daejang Dakbal archive",
+  "creator": "Jihoon Kang",
+  "date": "2026-10-23",
+  "url": "https://djdb.kr/",
+  "img": "img/2-djdb-daejang-dakbal-archive.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Web archive",
+    "Timeline",
+    "Interaction design",
+    "Mono type",
+    "Restricted palette",
+    "Red accent",
+    "Personal archive",
+    "Playful details"
+   ],
+   "hook": "a small restaurant's whole life turned into a timeline you can play with",
+   "contrast": "a serious archive format, with a goofy chicken-feet interaction",
+   "handwritten": "a serious archive for chicken feet"
+  }
+ },
+ {
+  "title": "SIGNALIS inventory",
+  "creator": "rose-engine",
+  "date": "2026-10-23",
+  "url": "https://store.steampowered.com/app/1262350/SIGNALIS/",
+  "img": "img/3-signalis-inventory.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game UI",
+    "Glitch",
+    "Error aesthetic",
+    "Space",
+    "Retro sci-fi",
+    "CRT",
+    "Diegetic interface",
+    "Red on black",
+    "Pixel art"
+   ],
+   "hook": "an inventory that looks like a broken screen from a ship out in deep space",
+   "contrast": "a beautiful, soft art style against harsh, glitchy screens",
+   "handwritten": "clinical cyber + space aesthetics, but the glitch makes it feel haunted"
+  }
+ },
+ {
+  "title": "Blank Reading (A Second Life)",
+  "creator": "Passage (Seoul), Im Jaehyung monograph",
+  "date": "2026-10-26",
+  "url": "https://passage.onl/Blank-Reading",
+  "img": "img/1-blank-reading-passage.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Book design",
+    "Monograph",
+    "Blind deboss",
+    "Minimal",
+    "Quiet typography",
+    "Negative space",
+    "Korean publishing",
+    "Grey on grey"
+   ],
+   "hook": "a monograph that whispers, with a cover you can only read by touch",
+   "contrast": "a tiny block of text against an almost empty contents page",
+   "handwritten": "quietness to the extreme"
+  }
+ },
+ {
+  "title": "Lorelei and the Laser Eyes",
+  "creator": "Simogo",
+  "date": "2026-10-26",
+  "url": "https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/",
+  "img": "img/4-lorelei-laser-eyes.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Noir",
+    "Graphic novel",
+    "Monochrome",
+    "Single accent colour",
+    "Magenta",
+    "Retro-digital",
+    "2D + 3D"
+   ],
+   "hook": "a unique noir graphic-novel-esque art direction",
+   "contrast": "black and white against strong magenta, 2d style against 3d",
+   "handwritten": "noir graphic novel + retro-digital vibes"
+  }
+ },
+ {
+  "title": "Encounters: Giacometti guidebook",
+  "creator": "Daly & Lyon for the Barbican",
+  "date": "2026-10-27",
+  "url": "https://fontsinuse.com/uses/80379/encounters-giacometti-guidebook",
+  "img": "img/1-encounters-giacometti-guidebook.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Exhibition guide",
+    "Print",
+    "Typography",
+    "Materiality",
+    "Sculpture photography",
+    "Yellow + black",
+    "Industrial design",
+    "Icon index"
+   ],
+   "hook": "type that sits with the texture of the sculptures, not on top of them",
+   "contrast": "strong yellow against black sculpture photography",
+   "handwritten": "i've always liked giacometti, and the type works with the materiality of his sculptures. the yellow against the black photos is so striking, almost industrial design"
+  }
+ },
+ {
+  "title": "Return of the Obra Dinn",
+  "creator": "Lucas Pope",
+  "date": "2026-10-27",
+  "url": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
+  "img": "img/3-obra-dinn-muster-book.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "1-bit",
+    "Dither",
+    "Logbook",
+    "Period interface",
+    "Mechanic as interaction",
+    "Hand-lettered",
+    "Monochrome"
+   ],
+   "hook": "an 1807 insurance logbook that doubles as the game's whole interface",
+   "contrast": "strict 1-bit two-tone against crowded, hand-lettered crew sketches",
+   "handwritten": "love the art style and the mechanic, using the impossible as an interaction paradigm is always something i love about games"
+  }
+ },
+ {
+  "title": "Tack-Tile",
+  "creator": "Mitch Wiesen, web by Evan Whitaker",
+  "date": "2026-10-28",
+  "url": "https://www.tack-tile.com/",
+  "img": "img/4-tack-tile-archive.png",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Archive",
+    "Paper ephemera",
+    "Tactility",
+    "Lenticular",
+    "Physical to digital",
+    "Monospace",
+    "1780–1980",
+    "Human-made"
+   ],
+   "hook": "a growing archive of 6,700+ scanned paper things made between 1780 and 1980, shown in monospace with a dotted wordmark",
+   "contrast": "flat scans on a screen, but the page behaves like a lenticular card",
+   "handwritten": "the tactility is right there in the name, and the lenticular card effect turns a physical object's trick into a 2d digital one"
+  }
+ },
+ {
+  "title": "Gathering softly",
+  "creator": "Anna-Lena Oehm",
+  "date": "2026-10-29",
+  "url": "https://fontsinuse.com/uses/80633/gathering-softly-by-anna-lena-oehm",
+  "img": "img/1-gathering-softly-oehm.png",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Catalogue",
+    "Web archive",
+    "Code-generated",
+    "Monospace",
+    "Flowing script",
+    "Colour",
+    "Thin paper"
+   ],
+   "hook": "a web archive of online collections turned into a code-generated printed catalog on thin 60 g paper",
+   "contrast": "flowing DaVinci lettering against monospace OCR-X indexes",
+   "handwritten": "beautiful colors, and the flowing script sitting against the monospace index makes a web archive feel hand-bound"
+  }
+ },
+ {
+  "title": "Pentiment",
+  "creator": "Obsidian Entertainment",
+  "date": "2026-10-29",
+  "url": "https://store.steampowered.com/app/1205520/Pentiment/",
+  "img": "img/4-pentiment-manuscript.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Illuminated manuscript",
+    "Medieval",
+    "Woodcut",
+    "Typography as character",
+    "Narrative design",
+    "Handwritten",
+    "Immersive"
+   ],
+   "hook": "a whole game built as a living illuminated manuscript, where each character's dialogue is set in a hand that fits their class and schooling",
+   "contrast": "a screen game that reads and behaves like an ink-and-parchment page",
+   "handwritten": "visual style, narrative and mechanics all in one, like breaking into the world of a medieval manuscript"
+  }
+ },
+ {
+  "title": "Space Between People",
+  "creator": "Hanna Noller",
+  "date": "2026-10-30",
+  "url": "https://www.spacebetweenpeople.com/work/index",
+  "img": "img/2-space-between-people-index.png",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Web",
+    "Editorial",
+    "Architecture",
+    "Single colour",
+    "Index",
+    "Catalogue card",
+    "Typography"
+   ],
+   "hook": "the site for architect Hanna Noller's practice, all in one blue on white, with a work index that runs year, title and category along ruled lines",
+   "contrast": "no highlight state in the nav, since it re-sets its own words so the current section slides to the centre",
+   "handwritten": "extremely clean"
+  }
+ },
+ {
+  "title": "ARCHIVE / ACHIEVE (ggg 416th exhibition)",
+  "creator": "Yoshihisa Tanaka",
+  "date": "2026-11-02",
+  "url": "https://www.dnpfcp.jp/gallery/ggg/jp/00000861",
+  "img": "img/1-tanaka-archive-achieve-washi-boxes.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Exhibition",
+    "Washi",
+    "Archive boxes",
+    "Storage as display",
+    "Japanese craft",
+    "Index",
+    "Paper"
+   ],
+   "hook": "a body of work shown as washi archive boxes, so the storage becomes the exhibition",
+   "contrast": "soft handmade paper against the strict logic of filing",
+   "handwritten": "the boxes are the show"
+  }
+ },
+ {
+  "title": "A Book for Making Books",
+  "creator": "Carolina Incerti",
+  "date": "2026-11-02",
+  "url": "https://www.itsnicethat.com/articles/carolina-incerti-a-book-for-making-books-publication-project-201026",
+  "img": "img/2-book-for-making-books-tabs.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Publication",
+    "Tabs",
+    "Manual",
+    "Bookmaking",
+    "Index",
+    "Self-referential",
+    "Tactile"
+   ],
+   "hook": "a tabbed book whose subject is how to make books",
+   "contrast": "an instruction manual's structure against a crafty, personal object",
+   "handwritten": "a book about itself"
+  }
+ },
+ {
+  "title": "Blue Prince",
+  "creator": "Dogubomb",
+  "date": "2026-11-02",
+  "url": "https://store.steampowered.com/app/1569580/Blue_Prince/",
+  "img": "img/3-blue-prince-drafting.jpg",
+  "type": "Game",
+  "note": {
+   "tags": [
+    "Game",
+    "Drafting",
+    "Floor plan",
+    "Blueprint",
+    "Puzzle",
+    "Room cards",
+    "Architecture",
+    "UI"
+   ],
+   "hook": "a mansion you build room by room by drafting floor-plan cards",
+   "contrast": "architect's drawing language against a mystery game",
+   "handwritten": "UI as a drafting table"
+  }
+ },
+ {
+  "title": "monome grid",
+  "creator": "monome (Brian Crabtree and Kelli Cain)",
+  "date": "2026-11-02",
+  "url": "https://monome.org/",
+  "img": "img/4-monome-grid-warm-light.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Instrument",
+    "Screenless",
+    "Button grid",
+    "Warm light",
+    "Minimal",
+    "Modular",
+    "Interaction"
+   ],
+   "hook": "a screenless instrument that answers only with warm light on a grid of buttons",
+   "contrast": "bare hardware against the expressive music it makes",
+   "handwritten": "the light is the interface"
+  }
+ },
+ {
+  "title": "Le fiabe sono vere… Storia popolare italiana",
+  "creator": "Omnigroup",
+  "date": "2026-11-05",
+  "url": "https://fontsinuse.com/uses/77128/fairytales-are-true-italian-folk-history-exhi",
+  "img": "img/1-fiabe-omnigroup-catalogue.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Catalogue",
+    "Colour-coded",
+    "Slipcase",
+    "Exhibition",
+    "Folk history",
+    "Index system",
+    "Uncoated"
+   ],
+   "hook": "twelve colour-coded booklets in a white slipcase, so the catalogue itself is the index for FormaFantasma's show",
+   "contrast": "one quiet white case against a fan of muted solid covers — yellow, burgundy, olive, mint — each a chapter with no hierarchy",
+   "handwritten": "the slipcase holds the system, and the colour does the sorting instead of a contents page"
+  }
+ },
+ {
+  "title": "Aplomb",
+  "creator": "Studio Lotta Nieminen",
+  "date": "2026-11-05",
+  "url": "https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026",
+  "img": "img/2-aplomb-stamp-perforation-box.jpg",
+  "type": "Packaging",
+  "note": {
+   "tags": [
+    "Packaging",
+    "Perfume",
+    "Blind emboss",
+    "Stamp perforation",
+    "Correspondence",
+    "White space",
+    "Serif + mono",
+    "Tactile"
+   ],
+   "hook": "a perfume box that behaves like a letter — blind-embossed stamp frame and postage perforations, almost no ink",
+   "contrast": "heavy empty board against tiny black type, with the relief doing the branding",
+   "handwritten": "feel it before you read it"
+  }
+ },
+ {
+  "title": "NotR — Pizza Itself",
+  "creator": "Vrints-Kolsteren",
+  "date": "2026-11-05",
+  "url": "https://www.itsnicethat.com/articles/vrints-kolsteren-napoli-on-the-road-graphic-design-project-010926",
+  "img": "img/4-notr-pizza-itself-box.jpg",
+  "type": "Identity",
+  "note": {
+   "tags": [
+    "Identity",
+    "Packaging",
+    "Pizza box",
+    "Spaced type",
+    "Monospace",
+    "Logistics",
+    "Industrial ephemera",
+    "Black on kraft"
+   ],
+   "hook": "a pizza box treated as the whole identity surface — spaced \"N o t R\" and monospace logistics type, no Italian-restaurant tropes",
+   "contrast": "shipping-label language against the warm everyday of a pizza lid",
+   "handwritten": "industrial ephemera on something you throw away"
+  }
+ },
+ {
+  "title": "The Echidna Zine",
+  "creator": "Hyper Pension",
+  "date": "2026-11-09",
+  "url": "https://fontsinuse.com/uses/77082/the-echidna-zine",
+  "img": "img/2-echidna-zine-hyper-pension.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Zine",
+    "Rubber stamp",
+    "Brush manuscript",
+    "Cyanotype",
+    "Parchment",
+    "Small edition",
+    "Mixed craft"
+   ],
+   "hook": "an edition of 30 where every page is a different craft, from stamp and brush to cyanotype and sheepskin",
+   "contrast": "ancient materials against a scrappy zine format",
+   "handwritten": "a collection of different craft"
+  }
+ },
+ {
+  "title": "Meant to be",
+  "creator": "Tobie Tse",
+  "date": "2026-11-09",
+  "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026",
+  "img": "img/3-tobie-tse-meant-to-be.png",
+  "type": "Motion",
+  "note": {
+   "tags": [
+    "Motion",
+    "Crochet",
+    "Filet grid",
+    "Scanned textile",
+    "Zoetrope",
+    "Loop",
+    "Handmade",
+    "Pixel-like"
+   ],
+   "hook": "hand-crocheted filet grids scanned frame by frame into zoetrope-style loops",
+   "contrast": "slow handwork against a fast, pixel-like loop",
+   "handwritten": "pixels you can hold"
+  }
+ },
+ {
+  "title": "V.H. Belvadi website (2026)",
+  "creator": "V.H. Belvadi",
+  "date": "2026-11-09",
+  "url": "https://fontsinuse.com/uses/79323/v-h-belvadi-website-2026",
+  "img": "img/4-belvadi-website-index.jpg",
+  "type": "Interaction",
+  "note": {
+   "tags": [
+    "Interaction",
+    "Book-as-website",
+    "Dust jacket",
+    "Roman numerals",
+    "Numbered index",
+    "Editorial",
+    "Quiet",
+    "Serif"
+   ],
+   "hook": "a personal site built like a book, with dust-jacket leaves, a roman-numeral preface and posts as a numbered index",
+   "contrast": "book conventions against an endless scrolling web",
+   "handwritten": "a book as a site"
+  }
+ },
+ {
+  "title": "Motion Sickness",
+  "creator": "Isabel + Helen",
+  "date": "2026-11-09",
+  "url": "https://www.itsnicethat.com/features/isabel-and-helen-motion-sickness-art-spotlight-100926",
+  "img": "img/5-isabel-helen-motion-sickness.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Maquettes",
+    "Motion tests",
+    "Studio shelves",
+    "Lo-fi",
+    "Kinetic",
+    "Process as work",
+    "Display"
+   ],
+   "hook": "shelves of lo-fi maquettes and motion tests shown as the finished work",
+   "contrast": "rough cardboard models against polished kinetic installations",
+   "handwritten": "the shelf is the portfolio"
+  }
+ },
+ {
+  "title": "CD-ROM PLAYER 01",
+  "creator": "das_POD",
+  "date": "2026-11-09",
+  "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
+  "img": "img/3-daspod-cdrom-player-01.jpg",
+  "type": "Physical",
+  "note": {
+   "tags": [
+    "Physical",
+    "Repurposed hardware",
+    "CD-ROM drive",
+    "Bent aluminium",
+    "Kit",
+    "Audio",
+    "Modular",
+    "Industrial"
+   ],
+   "hook": "a used computer CD-ROM drive housed in bent aluminium and turned into a kit CD player",
+   "contrast": "beige PC junk against crisp folded metal",
+   "handwritten": "e-waste made pretty and functional again"
+  }
+ },
+ {
+  "title": "Eating the Whole Fish",
+  "creator": "BEAM (Annie Chen and Zoe Lee), design by Kayla Feng",
+  "date": "2026-11-09",
+  "url": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
+  "img": "img/4-eating-the-whole-fish-anatomy.jpg",
+  "type": "Print",
+  "note": {
+   "tags": [
+    "Print",
+    "Cookbook",
+    "Specimen plates",
+    "Anatomical",
+    "Acid green",
+    "Scientific illustration",
+    "Food",
+    "Bold colour"
+   ],
+   "hook": "a cookbook laid out like natural-history plates, with fish anatomy on acid green",
+   "contrast": "museum-specimen calm against a loud, almost toxic green",
+   "handwritten": "cookbook disguised as a field guide"
+  }
+ },
+ {
+  "title": "RUNOUT",
+  "creator": "Etienne Ledemay",
+  "date": "2026-11-11",
+  "url": "https://runout.etienneledemay.fr/",
+  "img": "img/1-runout-etienne-ledemay.jpg",
+  "type": "Interaction"
+ },
+ {
+  "title": "Raw Material: Armchair",
+  "creator": "Jan-Micha Gamer",
+  "date": "2026-11-11",
+  "url": "https://www.designboom.com/design/discarded-leather-armchair-nine-functional-domestic-objects-jan-micha-gamer/",
+  "img": "img/3-raw-material-armchair-gamer.jpg",
+  "type": "Physical"
+ }
 ]
